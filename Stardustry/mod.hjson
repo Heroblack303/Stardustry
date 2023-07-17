@@ -1,0 +1,14 @@
+{
+    displayName: Stardustry
+    repo: Heroblack303/stardustry
+    name: so
+
+    author: Heroblack303
+        
+    description:
+        Stardustry
+
+    subtitle: "Stardustry yes!"
+    minGameVersion: 145.1
+    version: "0.1"
+}
