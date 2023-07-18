@@ -1,6 +1,6 @@
 {
-  "name": "Copper Ammo",
-  "description": "Simple, boring ammo with absolutly no effects whatsoever.",
+  "name": "Gen",
+  "description": "Genes are the basic structure of an organism.",
   "cost": 1,
   "color": "9d7600",
   "hardness": 1,
