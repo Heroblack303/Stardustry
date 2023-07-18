@@ -1,0 +1,12 @@
+{
+  "name": "Copper Ammo",
+  "description": "Simple, boring ammo with absolutly no effects whatsoever.",
+  "cost": 1,
+  "color": "9d7600",
+  "hardness": 1,
+  "flammability": 0.1,
+  "explosiveness": 0.1,
+  "radioactivity": 0.1,
+  "charge": 0.1,
+   "research": {}
+}
