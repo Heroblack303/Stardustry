@@ -12,7 +12,7 @@
 "mineTier": 3,
 "health": 200,
 "legCount": 4,
-"legLength": 3,
+"legLength": 9,
 "legForwardScl": 1,
 "legMoveSpace": 2,
 "hovering": true,
