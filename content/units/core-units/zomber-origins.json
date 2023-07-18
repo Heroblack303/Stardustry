@@ -5,6 +5,7 @@
 "speed": 0.7,
 "drag": 0.1,
 "hitSize": 12,
+"outlineColor": 543636,
 "rotateSpeed": 1.0,
 "research": "zomber-core",
 "buildSpeed": 1,
