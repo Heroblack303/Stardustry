@@ -1,8 +1,8 @@
 {
-  "name": "Gen",
-  "description": "Genes are the basic structure of an organism.",
+  "name": "Gen Zomber",
+  "description": "This is the gene of the Zomber race, the melee race is very strong.",
   "cost": 1,
-  "color": "99e550",
+  "color": "880015",
   "hardness": 1,
   "flammability": 0.1,
   "explosiveness": 0.1,
