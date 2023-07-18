@@ -3,7 +3,7 @@
 "name": "Zomber origins",
 "description": "Zomber origins.",
 "speed": 0.7,
-"drag": 0.4,
+"drag": 0.1,
 "hitSize": 12,
 "rotateSpeed": 1.0,
 "research": "zomber-core",
