@@ -1,0 +1,21 @@
+{
+  "type": "GenericCrafter",
+  "name": "Gen Zomber Craft",
+  "description": "Gen Zomber Craft.",
+  "health": 10000,
+  "size": 2,
+  "requirements": [
+    { "item": "scrap", "amount": 0}
+  ],
+  "research": "mini-core",
+  "hasPower": false,
+  "hasItems": true,
+  "craftTime": 600,
+  "consumes": {
+  },
+  "updateEffect": "smeltsmoke",
+  "category": "production",
+  "idleSoundVolume": 0.5,
+  "itemCapacity": 200,
+  "outputItem": { "item": "gen-zomber", "amount": 100}
+}
