@@ -9,9 +9,7 @@
   "mineSpeed": 2,
   "mineTier": 1,
   "armor": 1,
-  
   "coreUnitDock": true,
-  
   "health": 10,
   "flying": false,
   "itemCapacity": 5,
