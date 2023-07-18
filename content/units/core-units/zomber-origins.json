@@ -1,0 +1,22 @@
+{
+"type": "legs",
+"name": "Zomber origins",
+"description": "Zomber origins.",
+"speed": 0.7,
+"drag": 0.4,
+"hitSize": 12,
+"rotateSpeed": 1.0,
+"research": "zomber-core",
+"buildSpeed": 1,
+"mineSpeed": 6,
+"mineTier": 3,
+"health": 200,
+"legCount": 4,
+"legLength": 3,
+"legForwardScl": 1,
+"legMoveSpace": 2,
+"hovering": true,
+"armor": 1,
+"shadowElevation": 0.1,
+"groundLayer": 9
+}
