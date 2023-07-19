@@ -32,7 +32,7 @@
       "serrations": 0,
       "damage": 5,
       "hitColor": "633F3F",
-      "status": "fast",
+      "status": "slow",
       "hitSound": "malignShoot",
       "shootEffect": "none",
       "smokeEffect": "none",
