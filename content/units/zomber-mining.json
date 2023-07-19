@@ -5,8 +5,7 @@
 "defaultController": "minerAI",
 "speed": 0.7,
 "mineItems": [
-    "titanium",
-    "thorium"
+    "gen-evolutionary"
   ],
 "drag": 0.1,
 "hitSize": 12,
