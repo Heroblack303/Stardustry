@@ -15,9 +15,9 @@
       "time": 300
     },
     {
-      "unit": "zomber",
+      "unit": "zomber-mining",
       "requirements": [
-        "zomber-mining/50"
+        "zgen-zomber/50"
       ],
       "time": 300
     }
