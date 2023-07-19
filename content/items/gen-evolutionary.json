@@ -1,0 +1,12 @@
+{
+  "name": "Evolutionary genes",
+  "description": "This is the power of evolution.",
+  "cost": 1,
+  "color": "ffffff",
+  "hardness": 1,
+  "flammability": 0.1,
+  "explosiveness": 0.1,
+  "radioactivity": 0.1,
+  "charge": 0.1,
+   "research": {}
+}

@@ -4,21 +4,24 @@
 "description": "Zomber mining.",
 "defaultController": "minerAI",
 "speed": 0.7,
+"mineItems": [
+    "titanium",
+    "thorium"
+  ],
 "drag": 0.1,
 "hitSize": 12,
 "outlineColor": 543636,
 "rotateSpeed": 1.0,
 "research": "zomber-core",
-"buildSpeed": 1,
 "mineSpeed": 6,
-"mineTier": 3,
-"health": 200,
+"mineTier": 5,
+"health": 150,
+"itemCapacity": 20,
 "legCount": 4,
 "legLength": 9,
 "legForwardScl": 1,
 "legMoveSpace": 2,
 "hovering": true,
 "armor": 1,
-"shadowElevation": 0.1,
 "groundLayer": 9
 }
