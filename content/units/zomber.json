@@ -1,0 +1,46 @@
+{
+  "type": "mech",
+  "name": "[red]Zomber",
+  "description": "Zomber.",
+  "speed": 0.8,
+  "rotateSpeed" : 1.5,
+  "research": "supersoldier-factory",
+  "canAttack": false,
+  "armor": 10,
+  "health": 200,
+  "flying": false,
+  "itemCapacity": 30,
+  "hitSize": 6,
+  "weapons": [
+    {
+      "name": "zomber-weapon",
+      "x": 0,
+      "y": 0,
+      "reload": 15,
+      "recoil": -24,
+      "top": false,
+      "alternate": true,
+      "heatColor": "c093fa",
+      "shootY": 0,
+      "shootX": 0,
+      "shootSound": "claws-wave",
+      "bullet": {
+      "type": "ShrapnelBulletType",
+      "length": 16,
+      "width": 0,
+      "serrations": 0,
+      "damage": 5,
+      "hitColor": "240935FF",
+      "status": "slow",
+      "hitSound": "malignShoot",
+      "shootEffect": "none",
+      "smokeEffect": "none",
+      "recoil": -3.5,
+      "hitShake": 6,
+      "maxRange": 128,
+      "range": 128,
+      "rangeOverride": 128
+      }
+    }
+  ]
+}
