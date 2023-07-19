@@ -1,0 +1,30 @@
+{
+  "type": "unitFactory",
+  "name": "Zomber Factory",
+  "description": "Creates small and light units which may be upgraded using Reassembly Chambers.",
+  "health": 600,
+  "size": 3,
+  "consumes": {
+  },
+  "plans": [
+    {
+      "unit": "zomber",
+      "requirements": [
+        "gen-zomber/100"
+      ],
+      "time": 300
+    },
+    {
+      "unit": "zomber",
+      "requirements": [
+        "zomber-mining/50"
+      ],
+      "time": 300
+    }
+  ],
+  "requirements": [
+    "gen-zomber/500"
+  ],
+  "category": "units",
+  "research": "mini-core"
+}
