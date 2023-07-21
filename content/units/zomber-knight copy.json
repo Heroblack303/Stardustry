@@ -86,7 +86,7 @@
         "type": "ParticleEffect",
         "line": true,
         "particles": 4,
-        "lifetime": 5,
+        "lifetime": 20,
         "offset": 10,
         "interp": "circleOut",
         "length": 30,
@@ -109,7 +109,7 @@
               "sizeFrom": 3,
               "sizeTo": 1,
               "length": 60,
-              "lifetime": 5,
+              "lifetime": 20,
               "interp": "circleOut",
               "sizeInterp": "pow5In",
               "lightColor": "66B1FFFF",
@@ -129,7 +129,7 @@
               "sizeFrom": 3,
               "sizeTo": 1,
               "length": 60,
-              "lifetime": 5,
+              "lifetime": 20,
               "lightOpacity": 0,
               "interp": "circleOut",
               "sizeInterp": "pow5In",
@@ -140,7 +140,7 @@
           ]
         },
         "speed": 3,
-        "lifetime": 5
+        "lifetime": 10
       }
     }
   ]
