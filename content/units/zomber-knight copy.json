@@ -50,7 +50,45 @@
         "length": 25,
         "cone": 360,
         "colorFrom": "f3e97975",
-        "colorTo": "f3e97975"
+        "colorTo": "f3e97975",
+        "fragOnHit": false,
+"fragBullets": 7,
+"fragVelocityMin": 1,
+"fragBullet": {
+"type": "MissileBulletType",
+"sprite": "missile-large",
+"damage": 8,
+"speed": 4,
+"shrinkY": 0,
+"lightning": 1,
+"lightningLength": 5,
+"lightningColor": "f3e979",
+"lightningDamage": 4,
+"lifetime": 20,
+"lightRadius": 30,
+"lightColor": "f3e979",
+"homingRange": 45,
+"lightOpacity": 0.7,
+"backColor": "f3e979",
+"frontColor": "ffffff",
+"trailColor": "f3e979",
+"collidesTiles": false,
+"pierce": true,
+"trailWidth": 2.5,
+"trailLength": 19,
+"hitEffect": {
+"type": "ExplosionEffect",
+"lifetime": 20,
+"waveRadBase": 0,
+"waveRad": 0,
+"smokes": 0,
+"sparkColor": "f3e979",
+"sparks": 9,
+"sparkRad": 35,
+"sparkStroke": 1.5,
+"sparkLen": 4,
+}
+}
       }
     }
   }
