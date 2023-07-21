@@ -41,62 +41,18 @@
       "maxRange": 32,
       "range": 32,
       "rangeOverride": 32
-    }
-  },
-  {
-        "name": "zomber-knight-weapon",
-        "x": 5,
-        "y": 0,
-        "reload": 18,
-        "recoil": -4,
-        "top": false,
-        "alternate": true,
-        "heatColor": "543636",
-        "shootY": 0,
-        "shootX": 0,
-        "shootSound": "missile",
-        "bullet": {
-          "type": "MissileBulletType",
-          "sprite": "missile-large",
-          "width": 12,
-          "height": 12,
-          "damage": 60,
-          "speed": 6,
-          "shrinkY": 0,
-          "drag": -0.003,
-          "keepVelocity": false,
-          "lightRadius": 60,
-          "lightColor": "f3e979",
-          "lightOpacity": 0.7,
-          "lifetime": 20,
-          "backColor": "f3e979",
-          "frontColor": "ffffff",
-          "trailColor": "f3e979",
-          "weaveScale": 8,
-          "weaveMag": 1,
-          "pierce": true,
-          "pierceCap": 4,
-          "lightning": 2,
-          "lightningLength": 6,
-          "lightningColor": "f3e979",
-          "lightningDamage": 4,
-          "pierceBuilding": true,
-          "trailWidth": 4.5,
-          "trailLength": 29,
-          "hitEffect": {
-          "type": "ExplosionEffect",
-          "lifetime": 28,
-          "waveRadBase": 0,
-          "waveRad": 0,
-          "smokes": 6,
-          "smokeColor": "ffffff",
-          "sparkColor": "f3e979",
-          "sparks": 6,
-          "sparkRad": 35,
-          "sparkStroke": 1.5,
-          "sparkLen": 4
-        }
+      "smokeEffect": {
+        "type": "ParticleEffect",
+        "particles": 6,
+        "sizeFrom": 4,
+        "sizeTo": 0,
+        "lifetime": 30,
+        "length": 25,
+        "cone": 360,
+        "colorFrom": "f3e97975",
+        "colorTo": "f3e97975"
       }
     }
-  ]
+  }
+]
 }
