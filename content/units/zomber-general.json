@@ -15,7 +15,7 @@
   "weapons": [
     {
       "name": "zomber-general-weapon",
-      "x": 5,
+      "x": 8,
       "y": 0,
       "reload": 18,
       "recoil": -4,
@@ -45,7 +45,7 @@
   },
   {
     "name": "none",
-    "x": 5,
+    "x": 8,
     "y": 0,
     "ejectEffect": "none",
     "mirror": true,
