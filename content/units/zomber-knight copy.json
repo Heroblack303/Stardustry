@@ -100,21 +100,21 @@
         "colorTo": "84F491FF",
         "shootEffect": {
           "type": "multiEffect",
-          "layer": 110,
+          "layer": 30,
           "effects": [
             {
               "type": "ParticleEffect",
-              "particles": 5,
-              "sizeFrom": 7,
+              "particles": 3,
+              "sizeFrom": 3,
               "sizeTo": 1,
-              "length": 160,
-              "lifetime": 25,
+              "length": 40,
+              "lifetime": 15,
               "interp": "circleOut",
               "sizeInterp": "pow5In",
               "lightColor": "66B1FFFF",
               "colorFrom": "72DB8FFF",
               "colorTo": "72DB8F70",
-              "cone": 13
+              "cone": 5
             }
           ]
       }
