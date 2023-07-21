@@ -15,7 +15,7 @@
   "weapons": [
     {
       "name": "zomber-knight-weapon",
-      "x": 4,
+      "x": 5,
       "y": 0,
       "reload": 9,
       "recoil": -4,
@@ -30,7 +30,7 @@
       "length": 6,
       "width": 0,
       "serrations": 0,
-      "damage": 10,
+      "damage": 12,
       "hitColor": "633F3F",
       "status": "slow",
       "hitSound": "malignShoot",
