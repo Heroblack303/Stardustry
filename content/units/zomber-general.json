@@ -111,6 +111,48 @@
               "colorFrom": "633F3F",
               "colorTo": "633F3F",
               "cone": 6
+            },
+            {
+              "type": "ParticleEffect",
+              "particles": 5,
+              "sizeFrom": 3,
+              "sizeTo": 1,
+              "length": 60,
+              "lifetime": 10,
+              "interp": "circleOut",
+              "sizeInterp": "pow5In",
+              "lightColor": "7D5050",
+              "colorFrom": "633F3F",
+              "colorTo": "633F3F",
+              "cone": 6
+            },
+            {
+              "type": "ParticleEffect",
+              "particles": 5,
+              "sizeFrom": 3,
+              "sizeTo": 1,
+              "length": 60,
+              "lifetime": 10,
+              "interp": "circleOut",
+              "sizeInterp": "pow5In",
+              "lightColor": "7D5050",
+              "colorFrom": "633F3F",
+              "colorTo": "633F3F",
+              "cone": 6
+            },
+            {
+              "type": "ParticleEffect",
+              "particles": 5,
+              "sizeFrom": 3,
+              "sizeTo": 1,
+              "length": 60,
+              "lifetime": 10,
+              "interp": "circleOut",
+              "sizeInterp": "pow5In",
+              "lightColor": "7D5050",
+              "colorFrom": "633F3F",
+              "colorTo": "633F3F",
+              "cone": 6
             }
           ]
         },
@@ -118,6 +160,48 @@
           "type": "multiEffect",
           "layer": 30,
           "effects": [
+            {
+              "type": "ParticleEffect",
+              "particles": 3,
+              "sizeFrom": 3,
+              "sizeTo": 1,
+              "length": 60,
+              "lifetime": 10,
+              "lightOpacity": 0,
+              "interp": "circleOut",
+              "sizeInterp": "pow5In",
+              "colorFrom": "633F3F",
+              "colorTo": "7D5050",
+              "cone": 6
+            },
+            {
+              "type": "ParticleEffect",
+              "particles": 3,
+              "sizeFrom": 3,
+              "sizeTo": 1,
+              "length": 60,
+              "lifetime": 10,
+              "lightOpacity": 0,
+              "interp": "circleOut",
+              "sizeInterp": "pow5In",
+              "colorFrom": "633F3F",
+              "colorTo": "7D5050",
+              "cone": 6
+            },
+            {
+              "type": "ParticleEffect",
+              "particles": 3,
+              "sizeFrom": 3,
+              "sizeTo": 1,
+              "length": 60,
+              "lifetime": 10,
+              "lightOpacity": 0,
+              "interp": "circleOut",
+              "sizeInterp": "pow5In",
+              "colorFrom": "633F3F",
+              "colorTo": "7D5050",
+              "cone": 6
+            },            
             {
               "type": "ParticleEffect",
               "particles": 3,
