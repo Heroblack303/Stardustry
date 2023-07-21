@@ -1,20 +1,20 @@
 {
   "type": "mech",
-  "name": "[red]Zomber Knight",
-  "description": "Zomber Knight.",
-  "speed": 0.7,
+  "name": "[red]Zomber General",
+  "description": "Zomber General.",
+  "speed": 0.6,
   "rotateSpeed" : 1.5,
   "research": "zomber-low-progression",
   "canAttack": false,
-  "armor": 50,
-  "health": 500,
+  "armor": 100,
+  "health": 1000,
   "flying": false,
   "itemCapacity": 50,
   "hitSize": 10,
   "outlineColor": 543636,
   "weapons": [
     {
-      "name": "zomber-knight-weapon",
+      "name": "zomber-general-weapon",
       "x": 5,
       "y": 0,
       "reload": 18,
@@ -72,7 +72,7 @@
       "pierceCap": 5,
       "radius": 30,
       "hitPowerEffect": "none",
-      "hitColor": "84F491FF",
+      "hitColor": "633F3F",
       "timeIncrease": 1,
       "powerDamageScl": 0,
       "powerSclDecrease": 0.05,
@@ -95,9 +95,9 @@
         "strokeTo": 0,
         "lenFrom": 3,
         "lenTo": 0,
-        "lightColor": "84F491FF",
-        "colorFrom": "C9FFCFFF",
-        "colorTo": "84F491FF"
+        "lightColor": "633F3F",
+        "colorFrom": "7D5050",
+        "colorTo": "633F3F"
       },
         "shootEffect": {
           "type": "multiEffect",
@@ -112,9 +112,9 @@
               "lifetime": 20,
               "interp": "circleOut",
               "sizeInterp": "pow5In",
-              "lightColor": "66B1FFFF",
-              "colorFrom": "72DB8FFF",
-              "colorTo": "72DB8F70",
+              "lightColor": "7D5050",
+              "colorFrom": "633F3F",
+              "colorTo": "633F3F",
               "cone": 6
             }
           ]
@@ -133,13 +133,13 @@
               "lightOpacity": 0,
               "interp": "circleOut",
               "sizeInterp": "pow5In",
-              "colorFrom": "72DB8FFF",
-              "colorTo": "565656FF",
+              "colorFrom": "633F3F",
+              "colorTo": "7D5050",
               "cone": 6
             }
           ]
         },
-        "speed": 3,
+        "speed": 6,
         "lifetime": 10
       }
     }
