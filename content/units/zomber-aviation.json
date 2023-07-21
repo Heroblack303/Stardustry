@@ -29,7 +29,7 @@
                 "speed": 3,
                 "lifetime": 1,
                 "recoil": -10,
-                "damage": 15,
+                "damage": 8,
                 "splashDamage": 20,
                 "splashDamageRadius": 4,
                 "homingPower": 0.2,
