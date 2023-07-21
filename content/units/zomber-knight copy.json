@@ -44,7 +44,7 @@
     }
   },
   {
-    "name": "zomber-knight-weapon",
+    "name": "none",
     "x": 5,
     "y": 0,
     "ejectEffect": "none",
