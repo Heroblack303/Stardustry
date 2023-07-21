@@ -97,29 +97,122 @@
         "lenTo": 0,
         "lightColor": "84F491FF",
         "colorFrom": "C9FFCFFF",
-        "colorTo": "84F491FF",
+        "colorTo": "84F491FF"
+      },
         "shootEffect": {
           "type": "multiEffect",
           "layer": 30,
           "effects": [
             {
               "type": "ParticleEffect",
-              "particles": 3,
-              "sizeFrom": 3,
+              "particles": 5,
+              "sizeFrom": 7,
               "sizeTo": 1,
-              "length": 40,
-              "lifetime": 15,
+              "length": 160,
+              "lifetime": 25,
               "interp": "circleOut",
               "sizeInterp": "pow5In",
               "lightColor": "66B1FFFF",
               "colorFrom": "72DB8FFF",
               "colorTo": "72DB8F70",
-              "cone": 5
+              "cone": 13
+            },
+            {
+              "type": "ParticleEffect",
+              "particles": 6,
+              "sizeFrom": 4,
+              "sizeTo": 1,
+              "length": 130,
+              "lifetime": 35,
+              "interp": "circleOut",
+              "sizeInterp": "pow5In",
+              "lightColor": "84F491FF",
+              "colorFrom": "84F491FF",
+              "colorTo": "72DB8FFF",
+              "cone": 13
+            },
+            {
+              "type": "ParticleEffect",
+              "particles": 5,
+              "sizeFrom": 6,
+              "sizeTo": 1,
+              "length": 150,
+              "lifetime": 45,
+              "interp": "circleOut",
+              "sizeInterp": "pow5In",
+              "lightColor": "84F491FF",
+              "colorFrom": "84F491FF",
+              "colorTo": "84F491FF",
+              "cone": 15
+            },
+            {
+              "type": "ParticleEffect",
+              "particles": 5,
+              "sizeFrom": 5,
+              "sizeTo": 1,
+              "length": 180,
+              "lifetime": 60,
+              "interp": "circleOut",
+              "sizeInterp": "pow5In",
+              "lightColor": "84F491FF",
+              "colorFrom": "C9FFCFFF",
+              "colorTo": "84F491FF",
+              "cone": 10
             }
           ]
+        },
+        "smokeEffect": {
+          "type": "multiEffect",
+          "layer": 109,
+          "effects": [
+            {
+              "type": "ParticleEffect",
+              "particles": 3,
+              "sizeFrom": 7,
+              "sizeTo": 1,
+              "length": 200,
+              "lifetime": 60,
+              "lightOpacity": 0,
+              "interp": "circleOut",
+              "sizeInterp": "pow5In",
+              "colorFrom": "72DB8FFF",
+              "colorTo": "565656FF",
+              "cone": 14
+            },
+            {
+              "type": "ParticleEffect",
+              "particles": 3,
+              "sizeFrom": 9,
+              "sizeTo": 3,
+              "length": 200,
+              "lifetime": 70,
+              "lightOpacity": 0,
+              "interp": "circleOut",
+              "sizeInterp": "pow5In",
+              "colorFrom": "72DB8FFF",
+              "colorTo": "56565610",
+              "cone": 16
+            },
+            {
+              "type": "ParticleEffect",
+              "particles": 3,
+              "sizeFrom": 5,
+              "sizeTo": 1,
+              "length": 190,
+              "lifetime": 40,
+              "lightOpacity": 0,
+              "interp": "circleOut",
+              "sizeInterp": "pow5In",
+              "colorFrom": "72DB8FFF",
+              "colorTo": "565656FF",
+              "cone": 10
+            }
+          ]
+        },
+        "speed": 6,
+        "lifetime": 25.5
       }
     }
-  }
+  ]
 }
-]
-}
+    
