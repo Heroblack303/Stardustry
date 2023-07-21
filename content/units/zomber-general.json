@@ -46,7 +46,7 @@
   {
     "name": "none",
     "x": 8,
-    "y": 0,
+    "y": 2,
     "ejectEffect": "none",
     "mirror": true,
     "alternate": true,
