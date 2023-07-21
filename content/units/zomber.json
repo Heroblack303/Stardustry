@@ -4,7 +4,7 @@
   "description": "Zomber.",
   "speed": 0.8,
   "rotateSpeed" : 1.5,
-  "research": "supersoldier-factory",
+  "research": "zomber-factory",
   "canAttack": false,
   "armor": 10,
   "health": 200,

@@ -1,0 +1,21 @@
+{
+  "type": "GenericCrafter",
+  "name": "Gen Zomber High",
+  "description": "Gen Zomber High.",
+  "health": 1000,
+  "size": 3,
+  "requirements": [
+    { "item": "gen-zomber", "amount": 1500}
+  ],
+  "research": "gen-zomber-deposits",
+  "hasPower": false,
+  "hasItems": true,
+  "craftTime": 90,
+  "consumes": {
+  },
+  "updateEffect": "smeltsmoke",
+  "category": "production",
+  "idleSoundVolume": 0.5,
+  "itemCapacity": 200,
+  "outputItem": { "item": "gen-zomber", "amount": 10}
+}

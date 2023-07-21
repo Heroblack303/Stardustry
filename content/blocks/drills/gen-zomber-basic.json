@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
-  "name": "Gen Zomber Craft",
-  "description": "Gen Zomber Craft.",
+  "name": "Gen Zomber Basic",
+  "description": "Gen Zomber Basic.",
   "health": 10000,
   "size": 2,
   "requirements": [
@@ -16,6 +16,6 @@
   "updateEffect": "smeltsmoke",
   "category": "production",
   "idleSoundVolume": 0.5,
-  "itemCapacity": 200,
-  "outputItem": { "item": "gen-zomber", "amount": 100}
+  "itemCapacity": 1000,
+  "outputItem": { "item": "gen-zomber", "amount": 500}
 }

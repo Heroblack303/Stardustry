@@ -1,0 +1,16 @@
+{
+    "type": "Conveyor"
+    "name": "Zomber Conveyor",
+    "description": "Zomber Conveyor.",
+    "hasShadow": true,
+    "health": 80,
+    "speed": 0.1,
+    "displayedSpeed": 8,
+    "bridgeReplacement": "zomber-bridge",
+    "requirements": [
+        "gen-zomber/1"
+    ],
+    "category": "distribution",
+    "research": {
+    }
+}

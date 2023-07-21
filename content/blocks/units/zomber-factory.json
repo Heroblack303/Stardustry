@@ -10,14 +10,14 @@
     {
       "unit": "zomber",
       "requirements": [
-        "gen-zomber/100"
+        "gen-zomber/500"
       ],
       "time": 300
     },
     {
       "unit": "zomber-mining",
       "requirements": [
-        "gen-zomber/50"
+        "gen-zomber/250"
       ],
       "time": 300
     }

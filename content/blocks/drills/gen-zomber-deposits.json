@@ -1,0 +1,21 @@
+{
+  "type": "GenericCrafter",
+  "name": "Gen Zomber Deposits",
+  "description": "Gen Zomber Deposits.",
+  "health": 1000,
+  "size": 2,
+  "requirements": [
+    { "item": "gen-zomber", "amount": 250}
+  ],
+  "research": "gen-zomber-basic",
+  "hasPower": false,
+  "hasItems": true,
+  "craftTime": 120,
+  "consumes": {
+  },
+  "updateEffect": "smeltsmoke",
+  "category": "production",
+  "idleSoundVolume": 0.5,
+  "itemCapacity": 200,
+  "outputItem": { "item": "gen-zomber", "amount": 10}
+}

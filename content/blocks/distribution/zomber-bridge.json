@@ -1,0 +1,13 @@
+ {"type": "ItemBridge",
+  "name": "Zomber bridge",
+  "description": "AZomber bridge.",
+  "health": 80,
+  "range": 2,
+  "transportTime": 2,
+  "hasPower": false,
+"requirements": [
+  "gen-zomber/8"
+],
+"category": "distribution",
+"research": "gen-zomber"
+}
