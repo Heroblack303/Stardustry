@@ -1,0 +1,41 @@
+{
+    "type": "flying",
+    "name": "Zomber Aviation",
+    "description": "Zomber Aviation.",
+    "hitSize": 5,
+    "speed": 3,
+    "health": 400,
+    "armor": 50,
+    "rotateSpeed": 30,
+    "flying": true,
+    "engineOffset": 5,
+    "commandLimit": 10,
+    "lowAltitude": false,
+    "engineSize": 1,
+    "buildSpeed": 10,
+    "weapons": [
+        {
+            "name": "none",
+            "reload": 18,
+            "recoil": 0,
+            "mirror": false,
+            "shootSound": "claws-wave",
+            "y": 10,
+            "x": 0,
+            "bullet": {
+                "width": 0,
+                "height": 0,
+                "speed": 3,
+                "lifetime": 1,
+                "recoil": -10,
+                "splashDamage": 10,
+                "splashDamageRadius": 2,
+                "knockback": 1,
+                "despawnEffect": "none",
+                "shootEffectSmoke": "none",
+                "shootEffect": "none"
+            }
+        }
+    ],
+    "research":"zomber-low-progression"
+}

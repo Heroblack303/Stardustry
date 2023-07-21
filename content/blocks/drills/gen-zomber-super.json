@@ -16,6 +16,6 @@
   "updateEffect": "smeltsmoke",
   "category": "production",
   "idleSoundVolume": 0.5,
-  "itemCapacity": 200,
-  "outputItem": { "item": "gen-zomber", "amount": 10}
+  "itemCapacity": 100,
+  "outputItem": { "item": "gen-zomber", "amount": 50}
 }

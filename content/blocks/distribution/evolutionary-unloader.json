@@ -1,0 +1,12 @@
+{
+    "type": "Unloader",
+    "name": "Evolutionary Unloader",
+    "description": "Evolutionary Unloader.",
+    "health": 120,
+    "itemCapacity": 0,
+    "requirements": [
+        "gen-evolutionary/8"
+    ] ,
+    "category": "effect",
+    "research": "gen-evolutionary"
+}

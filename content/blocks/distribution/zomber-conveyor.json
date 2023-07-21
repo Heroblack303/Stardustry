@@ -1,5 +1,5 @@
 {
-    "type": "Conveyor"
+    "type": "Conveyor",
     "name": "Zomber Conveyor",
     "description": "Zomber Conveyor.",
     "hasShadow": true,
@@ -11,6 +11,5 @@
         "gen-zomber/1"
     ],
     "category": "distribution",
-    "research": {
-    }
+    "research": "gen-zomber"
 }
