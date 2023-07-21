@@ -30,7 +30,7 @@
       "length": 6,
       "width": 0,
       "serrations": 0,
-      "damage": 10,
+      "damage": 15,
       "hitColor": "633F3F",
       "status": "slow",
       "hitSound": "malignShoot",
