@@ -1,8 +1,8 @@
  {"type": "ItemBridge",
   "name": "Zomber bridge",
-  "description": "AZomber bridge.",
+  "description": "Zomber bridge.",
   "health": 80,
-  "range": 2,
+  "range": 5,
   "transportTime": 2,
   "hasPower": false,
 "requirements": [
