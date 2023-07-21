@@ -97,9 +97,29 @@
         "lenTo": 0,
         "lightColor": "84F491FF",
         "colorFrom": "C9FFCFFF",
-        "colorTo": "84F491FF"
+        "colorTo": "84F491FF",
+        "shootEffect": {
+          "type": "multiEffect",
+          "layer": 110,
+          "effects": [
+            {
+              "type": "ParticleEffect",
+              "particles": 5,
+              "sizeFrom": 7,
+              "sizeTo": 1,
+              "length": 160,
+              "lifetime": 25,
+              "interp": "circleOut",
+              "sizeInterp": "pow5In",
+              "lightColor": "66B1FFFF",
+              "colorFrom": "72DB8FFF",
+              "colorTo": "72DB8F70",
+              "cone": 13
+            }
+          ]
       }
     }
   }
+}
 ]
 }
