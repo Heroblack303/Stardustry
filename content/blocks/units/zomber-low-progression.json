@@ -7,12 +7,12 @@
   "constructTime": 1200,
   "upgrades": [
     ["zomber", "zomber-knight"],
-    ["zomber-knight", "zomber-aviation"]
+    ["zomber-mining", "zomber-aviation"]
     ],
   "consumes": {
       "items": {
           "items": [
-            "gen-evolutionary/1500"
+            "gen-evolutionary/1000"
           ]
       }
   },

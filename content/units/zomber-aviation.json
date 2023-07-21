@@ -29,12 +29,14 @@
                 "speed": 3,
                 "lifetime": 1,
                 "recoil": -10,
+                "damage": 15,
                 "splashDamage": 20,
                 "splashDamageRadius": 4,
                 "homingPower": 0.2,
                 "healPercent": 1,
                 "knockback": 1,
                 "despawnEffect": "none",
+                "hitSound": "malignShoot",
                 "shootEffectSmoke": "none",
                 "shootEffect": "none"
             }
