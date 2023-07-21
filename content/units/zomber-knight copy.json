@@ -41,8 +41,21 @@
       "maxRange": 32,
       "range": 32,
       "rangeOverride": 32
-      },
-      {
+    }
+  },
+  {
+        "name": "zomber-knight-weapon",
+        "x": 5,
+        "y": 0,
+        "reload": 18,
+        "recoil": -4,
+        "top": false,
+        "alternate": true,
+        "heatColor": "543636",
+        "shootY": 0,
+        "shootX": 0,
+        "shootSound": "missile",
+        "bullet": {
         "type": "MissileBulletType",
         "sprite": "missile-large",
         "damage": 8,
@@ -59,7 +72,7 @@
         "lightOpacity": 0.5,
         "backColor": "f3e979",
         "frontColor": "ffffff",
-        "trailColo"r: "f3e979",
+        "trailColor": "f3e979",
         "collidesTiles": false,
         "pierce": true,
         "trailWidth": 2.5,
