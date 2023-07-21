@@ -1,6 +1,6 @@
 {
 "type": "legs",
-"name": "Zomber mining",
+"name": "[red]Zomber mining",
 "description": "Zomber mining.",
 "defaultController": "minerAI",
 "speed": 0.7,

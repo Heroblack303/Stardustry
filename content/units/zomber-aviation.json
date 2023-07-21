@@ -1,6 +1,6 @@
 {
     "type": "flying",
-    "name": "Zomber Aviation",
+    "name": "[red]Zomber Aviation",
     "description": "Zomber Aviation.",
     "hitSize": 5,
     "speed": 3,
@@ -17,7 +17,7 @@
     "weapons": [
         {
             "name": "none",
-            "reload": 9,
+            "reload": 12,
             "recoil": 0,
             "mirror": false,
             "shootSound": "claws-wave",
@@ -29,9 +29,9 @@
                 "speed": 3,
                 "lifetime": 1,
                 "recoil": -10,
-                "damage": 8,
-                "splashDamage": 20,
-                "splashDamageRadius": 4,
+                "damage": 6,
+                "splashDamage": 10,
+                "splashDamageRadius": 2,
                 "homingPower": 0.2,
                 "healPercent": 1,
                 "knockback": 1,

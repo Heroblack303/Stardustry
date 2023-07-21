@@ -1,10 +1,10 @@
 {
   "type": "Reconstructor",
-  "name": "Zomber Factory",
+  "name": "[red]Zomber Factory",
   "description": "Evolution began recently.",
   "health": 900,
   "size": 3,
-  "constructTime": 1200,
+  "constructTime": 600,
   "upgrades": [
     ["zomber", "zomber-knight"],
     ["zomber-mining", "zomber-aviation"]
@@ -20,5 +20,5 @@
     "gen-zomber/1000"
   ],
   "category": "units",
-  "research": "mini-core"
+  "research": "zomber-factory"
 }

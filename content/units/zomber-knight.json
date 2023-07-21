@@ -4,7 +4,7 @@
   "description": "Zomber Knight.",
   "speed": 0.7,
   "rotateSpeed" : 1.5,
-  "research": "zomber-factory",
+  "research": "zomber-low-progression",
   "canAttack": false,
   "armor": 50,
   "health": 500,

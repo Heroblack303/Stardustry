@@ -1,6 +1,6 @@
 {
     "type": "Conveyor",
-    "name": "Zomber Conveyor",
+    "name": "[red]Zomber Conveyor",
     "description": "Zomber Conveyor.",
     "hasShadow": true,
     "health": 80,

@@ -1,6 +1,6 @@
 {
   "type": "unitFactory",
-  "name": "Zomber Factory",
+  "name": "[red]Zomber Factory",
   "description": "Zomber Factory.",
   "health": 600,
   "size": 3,
@@ -26,5 +26,5 @@
     "gen-zomber/500"
   ],
   "category": "units",
-  "research": "mini-core"
+  "research": "zomber-core"
 }
