@@ -1,8 +1,8 @@
 {
   "type": "Reconstructor",
-  "name": "[red]Zomber Factory",
+  "name": "[red]Zomber Low Progression",
   "description": "Evolution began recently.",
-  "health": 900,
+  "health": 1200,
   "size": 3,
   "constructTime": 600,
   "upgrades": [

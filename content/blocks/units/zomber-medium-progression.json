@@ -1,0 +1,23 @@
+{
+  "type": "Reconstructor",
+  "name": "[red]Zomber Medium ",
+  "description": "Medium evolution.",
+  "health": 2400,
+  "size": 5,
+  "constructTime": 1200,
+  "upgrades": [
+    ["zomber-knight", "zomber-general"],
+    ],
+  "consumes": {
+      "items": {
+          "items": [
+            "gen-evolutionary/3000"
+          ]
+      }
+  },
+  "requirements": [
+    "gen-zomber/3000"
+  ],
+  "category": "units",
+  "research": "zomber-factory"
+}
