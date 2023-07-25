@@ -1,5 +1,5 @@
 {
-"type": "mesh",
+"type": "mech",
 "name": "[red]Zomber mining",
 "description": "Zomber mining.",
 "defaultController": "minerAI",
@@ -16,6 +16,5 @@
 "mineTier": 1,
 "health": 150,
 "itemCapacity": 20,
-"hovering": true,
 "armor": 1
 }
