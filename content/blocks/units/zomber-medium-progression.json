@@ -2,9 +2,9 @@
   "type": "Reconstructor",
   "name": "[red]Zomber Medium ",
   "description": "Medium evolution.",
-  "health": 2400,
+  "health": 1600,
   "size": 5,
-  "constructTime": 1200,
+  "constructTime": 600,
   "upgrades": [
     ["zomber-knight", "zomber-general"],
     ],

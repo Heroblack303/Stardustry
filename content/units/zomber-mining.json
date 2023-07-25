@@ -16,11 +16,6 @@
 "mineTier": 5,
 "health": 150,
 "itemCapacity": 20,
-"legCount": 4,
-"legLength": 9,
-"legForwardScl": 1,
-"legMoveSpace": 2,
 "hovering": true,
-"armor": 1,
-"groundLayer": 9
+"armor": 1
 }

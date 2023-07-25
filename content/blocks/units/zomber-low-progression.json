@@ -2,9 +2,9 @@
   "type": "Reconstructor",
   "name": "[red]Zomber Low Progression",
   "description": "Evolution began recently.",
-  "health": 1200,
-  "size": 3,
-  "constructTime": 600,
+  "health": 800,
+  "size": 2,
+  "constructTime": 300,
   "upgrades": [
     ["zomber", "zomber-knight"],
     ["zomber-mining", "zomber-aviation"]

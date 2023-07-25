@@ -30,7 +30,7 @@
                 "lifetime": 1,
                 "recoil": -10,
                 "damage": 8,
-                "splashDamage": 14,
+                "splashDamage": 16,
                 "splashDamageRadius": 3,
                 "homingPower": 0.2,
                 "healPercent": 1,
