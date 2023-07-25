@@ -3,7 +3,7 @@
   "name": "[red]Zomber Factory",
   "description": "Zomber Factory.",
   "health": 600,
-  "size": 3,
+  "size": 2,
   "consumes": {
   },
   "plans": [
@@ -17,7 +17,7 @@
     {
       "unit": "zomber-mining",
       "requirements": [
-        "gen-zomber/250"
+        "gen-zomber/50"
       ],
       "time": 300
     }
