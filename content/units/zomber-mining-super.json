@@ -1,5 +1,5 @@
 {
-"type": "mesh",
+"type": "mech",
 "name": "[red]Zomber mining super",
 "description": "Zomber mining super.",
 "defaultController": "minerAI",
