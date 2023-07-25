@@ -1,0 +1,21 @@
+{
+"type": "legs",
+"name": "[red]Zomber mining super",
+"description": "Zomber mining super.",
+"defaultController": "minerAI",
+"speed": 0.6,
+"mineItems": [
+    "gen-evolutionary"
+  ],
+"drag": 0.1,
+"hitSize": 5,
+"outlineColor": 543636,
+"rotateSpeed": 1.0,
+"research": "zomber-medium-progression",
+"mineSpeed": 2,
+"mineTier": 10,
+"health": 5000,
+"itemCapacity": 10,
+"hovering": true,
+"armor": 1
+}

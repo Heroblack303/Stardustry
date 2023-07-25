@@ -1,6 +1,6 @@
 {
   "type": "Router",
-  "name": "[red]Evolutionary Router",
+  "name": "Evolutionary Router",
   "description": "Evolutionary Router.",
   "health": 80,
   "itemCapacity": 2,
