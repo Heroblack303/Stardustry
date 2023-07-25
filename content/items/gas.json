@@ -1,7 +1,7 @@
 {
   "name": "Gas",
   "description": "The purity of the vespene is highly valued. Hydrogen sulfide is one such impurity, causing the gas mixture to become explosive. Contaminated vespene has a yellowish tinge. Liquid vespene is also usable.",
-  "cost": 1,
+  "cost": 10,
   "color": "477d5b",
   "hardness": 1,
   "flammability": 0.5,
