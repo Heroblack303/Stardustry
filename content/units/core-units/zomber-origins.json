@@ -8,7 +8,7 @@
 "outlineColor": 543636,
 "rotateSpeed": 1.0,
 "research": "zomber-core",
-"buildSpeed": 1,
+"buildSpeed": 2,
 "mineSpeed": 8,
 "mineTier": 5,
 "health": 200,
