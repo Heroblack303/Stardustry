@@ -1,11 +1,12 @@
 {
-"type": "legs",
+"type": "mesh",
 "name": "[red]Zomber mining super",
 "description": "Zomber mining super.",
 "defaultController": "minerAI",
 "speed": 0.6,
 "mineItems": [
-    "gen-evolutionary"
+    "gen-evolutionary",
+    "gas"
   ],
 "drag": 0.1,
 "hitSize": 5,

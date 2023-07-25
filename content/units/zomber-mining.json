@@ -1,5 +1,5 @@
 {
-"type": "legs",
+"type": "mesh",
 "name": "[red]Zomber mining",
 "description": "Zomber mining.",
 "defaultController": "minerAI",
