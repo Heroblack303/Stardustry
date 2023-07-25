@@ -6,7 +6,7 @@
   "size": 5,
   "constructTime": 600,
   "upgrades": [
-    ["zomber-knight", "zomber-general"],
+    ["zomber-knight", "zomber-general"]
     ],
   "consumes": {
       "items": {
