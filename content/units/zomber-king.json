@@ -140,7 +140,7 @@
 },
 {
   "name": "none",
-  "reload": 180,
+  "reload": 360,
   "recoil": 0,
   "mirror": false,
   "shootSound": "claws-wave",
