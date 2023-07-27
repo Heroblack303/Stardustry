@@ -10,7 +10,7 @@
   "health": 600,
   "flying": false,
   "itemCapacity": 50,
-  "hitSize": 6,
+  "hitSize": 12,
   "outlineColor": 543636,
   "weapons": [
     {

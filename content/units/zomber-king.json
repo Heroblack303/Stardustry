@@ -1,0 +1,146 @@
+{
+  "type": "mech",
+  "name": "[red]Zomber King",
+  "description": "Zomber King.",
+  "speed": 0.6,
+  "rotateSpeed" : 1.5,
+  "research": "zomber-low-progression",
+  "canAttack": false,
+  "armor": 90,
+  "health": 900,
+  "flying": false,
+  "itemCapacity": 50,
+  "hitSize": 16,
+  "outlineColor": 543636,
+  "weapons": [
+    {
+      "name": "zomber-king-hand",
+      "x": 8,
+      "y": 0,
+      "reload": 18,
+      "recoil": -4,
+      "top": false,
+      "alternate": true,
+      "heatColor": "543636",
+      "shootY": 0,
+      "shootX": 0,
+      "shootSound": "claws-wave",
+      "bullet": {
+      "type": "ShrapnelBulletType",
+      "length": 8,
+      "width": 0,
+      "serrations": 0,
+      "damage": 36,
+      "hitColor": "633F3F",
+      "status": "slow",
+      "hitSound": "malignShoot",
+      "shootEffect": "none",
+      "smokeEffect": "none",
+      "recoil": -1,
+      "hitShake": 4,
+      "maxRange": 32,
+      "range": 32,
+      "rangeOverride": 32
+    }
+  },
+  {
+    "name": "zomber-king-weapon",
+    "x": 20,
+    "y": 0,
+    "mirror": true,
+    "shoot": {
+    "type": "ShootPattern",
+    "shots": 1,
+    "shotDelay": 6
+    },
+    "top": false,
+    "rotate": false,
+    "reload": 180,
+    "recoil": 4,
+    "shootSound": "mediumCannon",
+    "ejectEffect": "none",
+    "shake": 4,
+    "cooldownTime": 100,
+    "bullet": {
+    "type": "ArtilleryBulletType",
+    "width": 20,
+    "height": 25,
+    "damage": 1804,
+    "splashDamage": 150,
+    "splashDamageRadius": 60,
+    "speed": 3,
+    "lifetime": 30,
+    "frontColor": "7D5050",
+    "backColor": "633F3F",
+    "status": "paralyzed",
+    "statusDuration": 70,
+    "hitShake": 8,
+    "hitSound": "largeCannon",
+          "lightning": 4,
+          "lightningLength": 10,
+          "lightningLengthRand": 15,
+          "lightningDamage": 100,
+          "lightningColor": "84F491",
+    "shootEffect":   	{
+      "type": "ParticleEffect",
+        "particles": 10,
+        "length": 15,
+        "lifetime": 20,
+        "interp": "circleOut",
+        "sizeInterp": "pow5In",
+        "colorFrom": "7D5050",
+        "colorTo": "633F3F",
+        "sizeFrom": 3,
+        "sizeTo": 0,
+        "offsetY": 6
+      },
+       "hitEffect": {
+        "type": "multiEffect",
+        "effects": [
+        {
+        "type": "WaveEffect",
+        "lifetime": 35,
+        "sizeFrom": 0,
+        "sizeTo": 65,
+        "interp": "circleOut",
+        "strokeFrom": 35,
+        "strokeTo": 0,
+        "colorFrom": "7D5050",
+        "colorTo": "633F3F"
+        },
+          {
+      "type": "ParticleEffect",
+        "line": true,
+        "particles": 18,
+        "lifetime": 30,
+        "baseLength": 15,
+        "length": 60,
+        "lenFrom": 8,
+        "lenTo": 3,
+        "strokeFrom": 5,
+        "strokeTo": 0,
+        "lightColor": "84F491",
+        "colorFrom": "7D5050",
+        "colorTo": "633F3F"
+      },
+        {
+      "type": "ParticleEffect",
+        "particles": 14,
+        "length": 80,
+        "lifetime": 70,
+        "interp": "circleOut",
+        "sizeInterp": "pow5In",
+        "colorFrom": "7D5050",
+        "colorTo": "633F3F",
+        "sizeFrom": 8,
+        "sizeTo": 0
+      }
+    ]
+  }
+}
+}
+]
+}
+
+
+    
