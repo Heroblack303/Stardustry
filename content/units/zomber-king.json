@@ -155,7 +155,7 @@
       "damage": 500,
       "splashDamage": 500,
       "splashDamageRadius": 150,
-      "knockback": 1,
+      "knockback": 0.5,
       "despawnEffect": "none",
       "hitSound": "malignShoot",
       "shootEffectSmoke": "none",
