@@ -16,14 +16,14 @@
     {
       "name": "zomber-king-hand",
       "x": 8,
-      "y": 25,
+      "y": 20,
       "reload": 18,
       "recoil": -4,
       "top": false,
       "alternate": true,
       "heatColor": "543636",
       "shootY": 8,
-      "shootX": 25,
+      "shootX": 20,
       "shootSound": "claws-wave",
       "bullet": {
       "type": "ShrapnelBulletType",
