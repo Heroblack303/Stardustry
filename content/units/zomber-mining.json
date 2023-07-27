@@ -15,6 +15,6 @@
 "mineSpeed": 4,
 "mineTier": 1,
 "health": 150,
-"itemCapacity": 15,
-"armor": 1
+"itemCapacity": 5,
+"armor": 15
 }
