@@ -137,6 +137,30 @@
     ]
   }
 }
+},
+{
+  "name": "none",
+  "reload": 18,
+  "recoil": 0,
+  "mirror": false,
+  "shootSound": "claws-wave",
+  "y": 10,
+  "x": 0,
+  "bullet": {
+      "width": 0,
+      "height": 0,
+      "speed": 3,
+      "lifetime": 1,
+      "recoil": -10,
+      "damage": 50,
+      "splashDamage": 50,
+      "splashDamageRadius": 15,
+      "knockback": 1,
+      "despawnEffect": "none",
+      "hitSound": "malignShoot",
+      "shootEffectSmoke": "none",
+      "shootEffect": "none"
+  }
 }
 ]
 }
