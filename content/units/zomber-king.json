@@ -2,14 +2,14 @@
   "type": "mech",
   "name": "[red]Zomber King",
   "description": "Zomber King.",
-  "speed": 0.6,
-  "rotateSpeed" : 1.5,
+  "speed": 0.5,
+  "rotateSpeed" : 1,
   "research": "zomber-low-progression",
   "canAttack": false,
-  "armor": 90,
-  "health": 900,
+  "armor": 700,
+  "health": 7000,
   "flying": false,
-  "itemCapacity": 50,
+  "itemCapacity": 200,
   "hitSize": 16,
   "outlineColor": 543636,
   "weapons": [
@@ -17,7 +17,7 @@
       "name": "zomber-king-hand",
       "x": 8,
       "y": 30,
-      "reload": 36,
+      "reload": 18,
       "recoil": -4,
       "top": false,
       "alternate": true,
@@ -38,9 +38,9 @@
       "smokeEffect": "none",
       "recoil": -1,
       "hitShake": 8,
-      "maxRange": 32,
-      "range": 32,
-      "rangeOverride": 32
+      "maxRange": 64,
+      "range": 64,
+      "rangeOverride": 64
     }
   },
   {

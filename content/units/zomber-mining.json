@@ -12,9 +12,9 @@
 "outlineColor": 543636,
 "rotateSpeed": 1.0,
 "research": "zomber-factory",
-"mineSpeed": 6,
+"mineSpeed": 4,
 "mineTier": 1,
 "health": 150,
-"itemCapacity": 20,
+"itemCapacity": 15,
 "armor": 1
 }
