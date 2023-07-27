@@ -3,7 +3,7 @@
   "name": "[red]Zomber King",
   "description": "Zomber King.",
   "speed": 0.5,
-  "rotateSpeed" : 1,
+  "rotateSpeed" : 10,
   "research": "zomber-low-progression",
   "canAttack": false,
   "armor": 700,
