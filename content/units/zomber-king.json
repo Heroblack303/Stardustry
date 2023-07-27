@@ -72,7 +72,6 @@
     "lifetime": 30,
     "frontColor": "7D5050",
     "backColor": "633F3F",
-    "status": "paralyzed",
     "statusDuration": 70,
     "hitShake": 8,
     "hitSound": "largeCannon",
