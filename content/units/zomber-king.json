@@ -15,7 +15,6 @@
   "weapons": [
     {
       "name": "zomber-king-hand",
-      "rotate": true,
       "x": 8,
       "y": 12,
       "reload": 18,
@@ -46,6 +45,7 @@
   },
   {
     "name": "zomber-king-weapon",
+    "rotate": true,
     "x": 16,
     "y": -4,
     "mirror": true,
@@ -55,7 +55,6 @@
     "shotDelay": 6
     },
     "top": false,
-    "rotate": false,
     "reload": 72,
     "recoil": 4,
     "shootSound": "mediumCannon",
