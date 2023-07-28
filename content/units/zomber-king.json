@@ -16,8 +16,8 @@
   "weapons": [
     {
       "name": "zomber-king-hand",
-      "x": 8,
-      "y": 12,
+      "x": 16,
+      "y": 8,
       "reload": 18,
       "recoil": -4,
       "top": false,
@@ -47,7 +47,7 @@
     }
   },
   {
-    "name": "zomber-king-weapon",
+    "name": "zomber-king-weapon1",
     "mirror": false,
     "shootY": 10,
     "x": 16,
@@ -67,7 +67,7 @@
     }
   },
   {
-    "name": "zomber-king-weapon",
+    "name": "zomber-king-weapon2",
     "mirror": false,
     "shootY": 10,
     "x": -16,
