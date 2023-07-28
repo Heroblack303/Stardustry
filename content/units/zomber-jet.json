@@ -17,7 +17,7 @@
     "weapons": [
         {
             "name": "none",
-            "reload": 36,
+            "reload": 72,
             "recoil": 0,
             "mirror": false,
             "shootSound": "claws-wave",
@@ -31,7 +31,7 @@
                 "recoil": -10,
                 "damage": 50,
                 "splashDamage": 100,
-                "splashDamageRadius": 3,
+                "splashDamageRadius": 50,
                 "homingPower": 0.2,
                 "healPercent": 1,
                 "knockback": 1,
@@ -45,10 +45,10 @@
             "name": "zomber-jet-weapon",
             "mirror": false,
             "rotate": true,
-            "shootY": 4,
-            "x": 0,
-            "y": 0,
-            "reload": 36,
+            "shootY": 10,
+            "x": 5,
+            "y": 1,
+            "reload": 9,
             "shootSound": "sap",
             "bullet": {
               "type": "SapBulletType",
