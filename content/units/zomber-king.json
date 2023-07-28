@@ -3,6 +3,7 @@
   "name": "[red]Zomber King",
   "description": "Zomber King.",
   "speed": 0.5,
+  "rotate": true,
   "rotateSpeed" : 1,
   "research": "zomber-high-progression",
   "canAttack": false,
@@ -45,8 +46,6 @@
   },
   {
     "name": "zomber-king-weapon",
-    "rotate": true,
-    "rotateSpeed" : 1,
     "x": 16,
     "y": -4,
     "mirror": true,
