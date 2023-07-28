@@ -17,7 +17,7 @@
     {
       "name": "zomber-king-hand",
       "x": 16,
-      "y": 8,
+      "y": 6,
       "reload": 18,
       "recoil": -4,
       "top": false,
