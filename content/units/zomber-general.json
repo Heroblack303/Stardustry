@@ -78,7 +78,7 @@
       "hittable": false,
       "reflectable": false,
       "hitEffect": {
-        "type": "ParticleEffect",
+        "type": "hitLiquid",
         "line": true,
         "particles": 4,
         "lifetime": 10,
