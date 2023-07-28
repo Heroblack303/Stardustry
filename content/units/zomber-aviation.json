@@ -5,7 +5,7 @@
     "hitSize": 6,
     "speed": 3,
     "health": 400,
-    "armor": 50,
+    "armor": 20,
     "rotateSpeed": 30,
     "flying": true,
     "engineOffset": 5,

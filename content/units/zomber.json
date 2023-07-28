@@ -6,7 +6,7 @@
   "rotateSpeed" : 1.5,
   "research": "zomber-factory",
   "canAttack": false,
-  "armor": 12,
+  "armor": 6,
   "health": 120,
   "flying": false,
   "itemCapacity": 25,
