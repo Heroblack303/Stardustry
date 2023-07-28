@@ -6,13 +6,13 @@
     "speed": 6,
     "health": 4000,
     "armor": 400,
-    "rotateSpeed": 30,
+    "rotateSpeed": 1,
     "flying": true,
     "engineOffset": 5,
     "commandLimit": 10,
     "lowAltitude": false,
     "engineSize": 1,
-    "buildSpeed": 10,
+    "buildSpeed": 20,
     "outlineColor": 543636,
     "weapons": [
         {
