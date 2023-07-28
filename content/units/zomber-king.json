@@ -57,7 +57,7 @@
     "bullet": {
       "type": "SapBulletType",
       "damage": 25,
-      "length": 300,
+      "length": 200,
       "sapStrength": "4",
       "shootEffect": "shootLiquid",
       "hitEffect": "hitLiquid",
@@ -77,7 +77,7 @@
     "bullet": {
       "type": "SapBulletType",
       "damage": 25,
-      "length": 300,
+      "length": 200,
       "sapStrength": "4",
       "shootEffect": "shootLiquid",
       "hitEffect": "hitLiquid",
