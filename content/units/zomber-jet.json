@@ -46,8 +46,8 @@
             "mirror": false,
             "rotate": true,
             "shootY": 10,
-            "x": 5,
-            "y": 1,
+            "x": 0,
+            "y": -1,
             "reload": 9,
             "shootSound": "sap",
             "bullet": {
@@ -59,7 +59,7 @@
               "hitEffect": "hitLiquid",
               "color": "62AE7F",
               "lightColor": "84F491",
-              "knockback": -0.5
+              "knockback": -5
             }
           }
     ],
