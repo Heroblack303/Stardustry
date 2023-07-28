@@ -45,123 +45,25 @@
     }
   },
   {
-    "name": "zomber-king-weapon",
+    "name": "zomber-jet-weapon",
+    "mirror": false,
+    "shootY": 10,
     "x": 16,
     "y": -4,
-    "mirror": true,
-    "shoot": {
-    "type": "ShootPattern",
-    "shots": 1,
-    "shotDelay": 6
-    },
-    "top": false,
-    "reload": 72,
-    "recoil": 4,
-    "shootSound": "mediumCannon",
-    "ejectEffect": "none",
-    "shake": 4,
-    "cooldownTime": 100,
+    "reload": 18,
+    "shootSound": "sap",
     "bullet": {
-    "type": "ArtilleryBulletType",
-    "width": 20,
-    "height": 25,
-    "damage": 100,
-    "splashDamage": 50,
-    "splashDamageRadius": 20,
-    "speed": 1,
-    "lifetime": 30,
-    "frontColor": "7D5050",
-    "backColor": "633F3F",
-    "statusDuration": 70,
-    "hitShake": 8,
-    "hitSound": "largeCannon",
-          "lightning": 10,
-          "lightningLength": 10,
-          "lightningLengthRand": 15,
-          "lightningDamage": 25,
-          "lightningColor": "84F491",
-    "shootEffect":   	{
-      "type": "ParticleEffect",
-        "particles": 10,
-        "length": 15,
-        "lifetime": 20,
-        "interp": "circleOut",
-        "sizeInterp": "pow5In",
-        "colorFrom": "7D5050",
-        "colorTo": "633F3F",
-        "sizeFrom": 3,
-        "sizeTo": 0,
-        "offsetY": 6
-      },
-       "hitEffect": {
-        "type": "multiEffect",
-        "effects": [
-        {
-        "type": "WaveEffect",
-        "lifetime": 35,
-        "sizeFrom": 0,
-        "sizeTo": 65,
-        "interp": "circleOut",
-        "strokeFrom": 35,
-        "strokeTo": 0,
-        "colorFrom": "7D5050",
-        "colorTo": "633F3F"
-        },
-          {
-      "type": "ParticleEffect",
-        "line": true,
-        "particles": 18,
-        "lifetime": 30,
-        "baseLength": 15,
-        "length": 60,
-        "lenFrom": 8,
-        "lenTo": 3,
-        "strokeFrom": 5,
-        "strokeTo": 0,
-        "lightColor": "84F491",
-        "colorFrom": "7D5050",
-        "colorTo": "633F3F"
-      },
-        {
-      "type": "ParticleEffect",
-        "particles": 14,
-        "length": 80,
-        "lifetime": 70,
-        "interp": "circleOut",
-        "sizeInterp": "pow5In",
-        "colorFrom": "7D5050",
-        "colorTo": "633F3F",
-        "sizeFrom": 8,
-        "sizeTo": 0
-      }
-    ]
+      "type": "SapBulletType",
+      "damage": 50,
+      "length": 100,
+      "sapStrength": "4",
+      "shootEffect": "shootLiquid",
+      "hitEffect": "hitLiquid",
+      "color": "62AE7F",
+      "lightColor": "84F491",
+      "knockback": -5
+    }
   }
-}
-},
-{
-  "name": "none",
-  "reload": 360,
-  "recoil": 0,
-  "mirror": false,
-  "shootSound": "claws-wave",
-  "y": 10,
-  "x": 0,
-  "bullet": {
-      "width": 0,
-      "height": 0,
-      "speed": 3,
-      "lifetime": 1,
-      "recoil": -10,
-      "damage": 500,
-      "splashDamage": 500,
-      "splashDamageRadius": 150,
-      "knockback": 0.5,
-      "despawnEffect": "none",
-      "hitSound": "malignShoot",
-      "shootEffectSmoke": "none",
-      "shootEffect": "none"
-  }
-}
 ]
 }
 
