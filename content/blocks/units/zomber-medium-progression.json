@@ -12,13 +12,15 @@
   "consumes": {
       "items": {
           "items": [
-            "gen-evolutionary/3000"
+            "gen-evolutionary/2000",
+            "gas/500"
           ]
       }
   },
   "requirements": [
-    "gen-zomber/3000"
+    "gen-zomber/2000",
+    "gas/1000"
   ],
   "category": "units",
-  "research": "zomber-factory"
+  "research": "zomber-low-progression"
 }

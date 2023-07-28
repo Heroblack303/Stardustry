@@ -1,0 +1,26 @@
+{
+  "type": "Reconstructor",
+  "name": "[red]Zomber High ",
+  "description": "High evolution.",
+  "health": 3200,
+  "size": 6,
+  "constructTime": 7200,
+  "upgrades": [
+    ["zomber-general", "zomber-king"],
+    ["zomber-aviation", "zomber-jet"]
+    ],
+  "consumes": {
+      "items": {
+          "items": [
+            "gen-evolutionary/8000",
+            "gas/2000"
+          ]
+      }
+  },
+  "requirements": [
+    "gen-zomber/8000",
+    "gas/4000"
+  ],
+  "category": "units",
+  "research": "zomber-medium-progression"
+}

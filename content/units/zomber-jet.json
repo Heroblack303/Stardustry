@@ -1,11 +1,11 @@
 {
     "type": "flying",
-    "name": "[red]Zomber Aviation",
-    "description": "Zomber Aviation.",
+    "name": "[red]Zomber Jet",
+    "description": "Zomber Jet.",
     "hitSize": 6,
-    "speed": 3,
-    "health": 400,
-    "armor": 50,
+    "speed": 6,
+    "health": 4000,
+    "armor": 400,
     "rotateSpeed": 30,
     "flying": true,
     "engineOffset": 5,
@@ -17,7 +17,7 @@
     "weapons": [
         {
             "name": "none",
-            "reload": 9,
+            "reload": 36,
             "recoil": 0,
             "mirror": false,
             "shootSound": "claws-wave",
@@ -29,8 +29,8 @@
                 "speed": 3,
                 "lifetime": 1,
                 "recoil": -10,
-                "damage": 8,
-                "splashDamage": 16,
+                "damage": 50,
+                "splashDamage": 100,
                 "splashDamageRadius": 3,
                 "homingPower": 0.2,
                 "healPercent": 1,
@@ -40,7 +40,28 @@
                 "shootEffectSmoke": "none",
                 "shootEffect": "none"
             }
-        }
+        },
+        {
+            "name": "zomber-jet-weapon",
+            "mirror": false,
+            "rotate": true,
+            "shootY": 4,
+            "x": 0,
+            "y": 0,
+            "reload": 36,
+            "shootSound": "sap",
+            "bullet": {
+              "type": "SapBulletType",
+              "damage": 50,
+              "length": 100,
+              "sapStrength": "1",
+              "shootEffect": "shootLiquid",
+              "hitEffect": "hitLiquid",
+              "color": "62AE7F",
+              "lightColor": "84F491",
+              "knockback": -0.5
+            }
+          }
     ],
-    "research":"zomber-low-progression"
+    "research":"zomber-high-progression"
 }
