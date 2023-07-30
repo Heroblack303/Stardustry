@@ -1,0 +1,71 @@
+{
+  "type": "ItemTurret",
+  "name": "Scober",
+  "description": "Singes nearby enemies, similar power scorch.",
+"size": 1,
+"health": 500,
+"range": 100,
+"reload": 9,
+"recoil": 1,
+"targetAir": false,
+"shootSound": "flame",
+"ammoTypes": {
+  "gen-zomber": {
+    "damage": 24,
+    "speed": 5,
+    "pierce": true,
+    "pierceBuilding": true,
+    "ammoMultiplier": 5,
+    "status": "burning",
+    "makeFire": true,
+    "lifetime": 18,
+    "despawnEffect": "none",
+    "width": 0.01,
+    "height": 0.01,
+    "smokeEffect": {
+      "type": "ParticleEffect",
+      "particles": 25,
+      "length": 140,
+      "lifetime": 36,
+      "interp": "circleOut",
+      "cone": 3,
+      "colorFrom": "7D5050",
+      "colorTo": "633F3F",
+      "sizeFrom": 4,
+      "sizeTo": 0.6
+    }
+  },
+  "gas": {
+    "damage": 60,
+    "speed": 10,
+    "healPercent": 1,
+    "pierce": true,
+    "pierceBuilding": true,
+    "ammoMultiplier": 5,
+    "status": "burning",
+    "makeFire": true,
+    "lifetime": 36,
+    "despawnEffect": "none",
+    "width": 0.01,
+    "height": 0.01,
+    "smokeEffect": {
+      "type": "ParticleEffect",
+      "particles": 25,
+      "length": 140,
+      "lifetime": 36,
+      "interp": "circleOut",
+      "cone": 3,
+      "colorFrom": "84F491",
+      "colorTo": "62AE7F",
+      "sizeFrom": 4,
+      "sizeTo": 0.6
+    }
+  }
+},
+"category": "turret",
+"research": "gen-zomber",
+"requirements": [
+  "gen-zomber/100",
+  "gen-evolutionary/50"
+]
+}
