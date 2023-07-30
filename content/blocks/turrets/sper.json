@@ -7,36 +7,34 @@
   "health": 2000,
   "shoot": {
     "type": "ShootSpread",
-    "shots": 100,
-    "spread": 10
+    "shots": 120,
+    "spread": 6
   },
-  "range": 180,
-  "reload": 18,
-  "shootSound": "none",
+  "range": 200,
+  "reload": 1,
+  "shootSound": "pew",
   "shootCone": 360,
     "shootX": 0,
     "shootY": 0,
   "shootEffect": {
     "type": "ParticleEffect",
-    "colorFrom": "84F491",
-    "colorTo": "62AE7F",
+    "colorFrom": "0053e8",
+    "colorTo": "0046c2",
     "cone": 360,
-    "lifetime": 45
+    "lifetime": 50
   },
   "ammoTypes": {
-    "gas": {
-      "type": "SapBulletType",
-      "damage": 25,
-      "length": 180,
+    "water": {
+      "type": "LaserBoltBulletType",
+      "damage": 0,
+      "lifetime": 57,
       "color": "000000",
       "lightColor": "000000",
       "trailColor": "000000",
       "backColor": "000000",
-      "lifetime": 45,
       "healPercent": 1,
-      "collidesTeam": true,
-      "knockback": 1,
-      "status": "burning"
+      "knockback": 0,
+      "liquid": "water"
     }
   },
   "rotateSpeed": 200,
