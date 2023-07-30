@@ -37,6 +37,8 @@
       "backColor": "000000",
       "colorFrom": "000000",
       "colorTo": "000000",
+      "mixColorFrom": "000000",
+      "mixColorTo": "000000",
       "healPercent": 1,
       "collidesTeam": true,
       "knockback": 1,
