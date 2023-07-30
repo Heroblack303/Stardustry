@@ -24,7 +24,7 @@
   },
   "ammoTypes": {
     "gas": {
-      "type": "LiquidBulletType",
+      "type": "LaserBoltBulletType",
       "damage": 11,
       "lifetime": 45,
       "healPercent": 1,
