@@ -38,6 +38,7 @@
       "mixColorTo": "000000",
       "backColor": "000000",
       "frontColor": "000000",
+      "trailColor": "000000",
       "healPercent": 1,
       "collidesTeam": true,
       "knockback": 1,
