@@ -5,9 +5,10 @@
 "size": 1,
 "health": 500,
 "range": 100,
-"reload": 9,
+"reload": 18,
 "recoil": 1,
 "targetAir": false,
+"outlineColor": 543636,
 "shootSound": "flame",
 "ammoTypes": {
   "gen-zomber": {

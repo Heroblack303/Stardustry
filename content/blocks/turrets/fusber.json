@@ -1,0 +1,73 @@
+{
+  "type": "ItemTurret",
+  "name": "Fusber",
+  "description": "Fires many close-range piercing bolts at nearby enemies, similar power fuse.",
+  "reload": 54,
+  "shake": 3,
+  "recoil": 5,
+  "range": 100,
+  "shoot": {
+    "type": "ShootSpread",
+    "spread": 15,
+    "shots": 6
+  },
+  "inaccuracy": 9,
+  "shootCone": 36,
+  "size": 5,
+  "coolantMultiplier": 0.5,
+  "shootSound": "shotgun",
+  "consumes": {
+    "coolant": {
+      "amount": 0.5
+    }
+  },
+  "ammoTypes": {
+    "gen-zomber": {
+      "type": "ShrapnelBulletType",
+      "length": 100,
+      "damage": 60,
+      "ammoMultiplier": 3,
+      "width": 12,
+      "reloadMultiplier": 1.5,
+      "colorFrom": "7D5050",
+      "colorTo": "633F3F"
+    },
+    "gas": {
+      "type": "ShrapnelBulletType",
+      "length": 200,
+      "damage": 120,
+      "ammoMultiplier": 6,
+      "colorFrom": "84F491",
+      "colorTo": "62AE7F"
+    }
+  },
+  "category": "turret",
+  "research": "ring-turret",
+  "requirements": [
+    "gen-zomber/2000",
+    "gen-evolutionary/1000",
+    "gas/500"
+  ],
+  "drawer": {
+    "type": "DrawTurret",
+    "parts": [
+      {
+        "type": "RegionPart",
+        "suffix": "-barrel",
+        "mirror": false,
+        "under": true,
+        "heatProgress": "recoil",
+        "progress": "recoil",
+        "moveY": -4
+      },
+      {
+        "type": "RegionPart",
+        "suffix": "-top",
+        "mirror": false,
+        "under": false,
+        "heatProgress": "recoil",
+        "progress": "recoil"
+      }
+    ]
+  }
+}
