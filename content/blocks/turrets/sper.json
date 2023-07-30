@@ -2,7 +2,7 @@
   "type": "ItemTurret",
   "name": "Sper",
   "description": "Puts out nearby fires at high efficiency. Not useful in combat, as it deals no damage.",
-  "defaultController": "repairAI",
+  "targetHealing": true,
   "size": 3,
   "health": 2000,
   "shoot": {
@@ -11,7 +11,7 @@
     "spread": 10
   },
   "range": 200,
-  "reload": 3,
+  "reload": 9,
   "shootSound": "none",
   "shootCone": 360,
     "shootX": 0,
