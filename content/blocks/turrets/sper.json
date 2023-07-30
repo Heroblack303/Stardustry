@@ -27,7 +27,7 @@
     "gas": {
       "type": "LaserBoltBulletType",
       "speed": 4,
-      "damage": 50,
+      "damage": 36,
       "lifetime": 45,
       "pierce": true,
       "pierceCap": 10,

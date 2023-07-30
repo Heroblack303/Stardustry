@@ -12,7 +12,7 @@
 "shootSound": "flame",
 "ammoTypes": {
   "gen-zomber": {
-    "damage": 9,
+    "damage": 8,
     "speed": 5,
     "pierce": true,
     "pierceBuilding": true,
@@ -27,7 +27,7 @@
       "type": "ParticleEffect",
       "particles": 20,
       "length": 100,
-      "lifetime": 18,
+      "lifetime": 16,
       "interp": "circleOut",
       "cone": 2,
       "colorFrom": "7D5050",
