@@ -25,7 +25,7 @@
   },
   "ammoTypes": {
     "gas": {
-      "type": "SapBulletType",
+      "type": "LaserBulletType",
       "speed": 4,
       "damage": 1,
       "mixColorFrom": "000000",
