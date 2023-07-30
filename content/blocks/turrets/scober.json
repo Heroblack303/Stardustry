@@ -11,7 +11,7 @@
 "shootSound": "flame",
 "ammoTypes": {
   "gen-zomber": {
-    "damage": 24,
+    "damage": 12,
     "speed": 5,
     "pierce": true,
     "pierceBuilding": true,
@@ -24,11 +24,11 @@
     "height": 0.01,
     "smokeEffect": {
       "type": "ParticleEffect",
-      "particles": 25,
-      "length": 140,
-      "lifetime": 36,
+      "particles": 20,
+      "length": 100,
+      "lifetime": 18,
       "interp": "circleOut",
-      "cone": 3,
+      "cone": 2,
       "colorFrom": "7D5050",
       "colorTo": "633F3F",
       "sizeFrom": 4,
@@ -36,7 +36,7 @@
     }
   },
   "gas": {
-    "damage": 60,
+    "damage": 36,
     "speed": 10,
     "healPercent": 1,
     "pierce": true,
@@ -50,15 +50,15 @@
     "height": 0.01,
     "smokeEffect": {
       "type": "ParticleEffect",
-      "particles": 25,
-      "length": 140,
+      "particles": 30,
+      "length": 150,
       "lifetime": 36,
       "interp": "circleOut",
-      "cone": 3,
+      "cone": 4,
       "colorFrom": "84F491",
       "colorTo": "62AE7F",
-      "sizeFrom": 4,
-      "sizeTo": 0.6
+      "sizeFrom": 8,
+      "sizeTo": 1.2
     }
   }
 },
