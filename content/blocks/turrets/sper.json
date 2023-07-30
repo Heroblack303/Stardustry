@@ -12,7 +12,7 @@
   },
   "range": 200,
   "reload": 1,
-  "shootSound": "pew",
+  "shootSound": "none",
   "shootCone": 360,
     "shootX": 0,
     "shootY": 0,
@@ -27,13 +27,13 @@
     "gas": {
       "type": "LaserBoltBulletType",
       "damage": 1,
-      "lifetime": 57,
+      "lifetime": 200,
       "color": "000000",
       "lightColor": "000000",
       "trailColor": "000000",
       "backColor": "000000",
       "healPercent": 1,
-      "knockback": 0,
+      "knockback": 1,
       "liquid": "water"
     }
   },
