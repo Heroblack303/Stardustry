@@ -10,7 +10,7 @@
     "shots": 500,
     "spread": 10
   },
-  "range": 200,
+  "range": 180,
   "reload": 18,
   "shootSound": "none",
   "shootCone": 360,
@@ -26,10 +26,10 @@
   "ammoTypes": {
     "gas": {
       "type": "BasicBulletType",
-      "speed": 5,
+      "speed": 4,
       "damage": 1,
-      "mixColorFrom": "84F491",
-      "mixColorTo": "62AE7F",
+      "mixColorFrom": "000000",
+      "mixColorTo": "000000",
       "lifetime": 45,
       "healPercent": 1,
       "collidesTeam": true,
