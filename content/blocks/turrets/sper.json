@@ -1,5 +1,5 @@
 {
-  "type": "ItemTurret",
+  "type": "LiquidTurret",
   "name": "Sper",
   "description": "Puts out nearby fires at high efficiency. Not useful in combat, as it deals no damage.",
   "targetHealing": true,
