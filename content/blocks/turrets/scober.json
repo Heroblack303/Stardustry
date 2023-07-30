@@ -12,7 +12,7 @@
 "shootSound": "flame",
 "ammoTypes": {
   "gen-zomber": {
-    "damage": 12,
+    "damage": 9,
     "speed": 5,
     "pierce": true,
     "pierceBuilding": true,
@@ -37,7 +37,7 @@
     }
   },
   "gas": {
-    "damage": 36,
+    "damage": 27,
     "speed": 10,
     "healPercent": 1,
     "pierce": true,
@@ -66,7 +66,7 @@
 "category": "turret",
 "research": "gen-zomber",
 "requirements": [
-  "gen-zomber/100",
-  "gen-evolutionary/50"
+  "gen-zomber/500",
+  "gen-evolutionary/250"
 ]
 }

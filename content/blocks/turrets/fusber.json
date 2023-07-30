@@ -34,7 +34,7 @@
     "gas": {
       "type": "ShrapnelBulletType",
       "length": 60,
-      "damage": 240,
+      "damage": 360,
       "ammoMultiplier": 5,
       "width": 12,
       "reloadMultiplier": 3,
