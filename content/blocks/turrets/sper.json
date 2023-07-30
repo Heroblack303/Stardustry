@@ -6,8 +6,8 @@
   "health": 2000,
   "shoot": {
     "type": "ShootSpread",
-    "shots": 100,
-    "spread": 5
+    "shots": 200,
+    "spread": 10
   },
   "range": 200,
   "reload": 1,
@@ -25,6 +25,7 @@
   "ammoTypes": {
     "gas": {
       "type": "LaserBoltBulletType",
+      "speed": 10,
       "damage": 11,
       "lifetime": 45,
       "healPercent": 1,
