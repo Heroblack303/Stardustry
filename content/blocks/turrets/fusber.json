@@ -4,7 +4,7 @@
   "description": "Fires many close-range piercing bolts at nearby enemies, similar power fuse.",
   "reload": 54,
   "shake": 5,
-  "recoil": 3,
+  "recoil": 5,
   "range": 100,
   "shoot": {
     "type": "ShootSpread",
@@ -13,7 +13,7 @@
   },
   "inaccuracy": 9,
   "shootCone": 36,
-  "size": 5,
+  "size": 3,
   "coolantMultiplier": 0.5,
   "shootSound": "shotgun",
   "consumes": {
