@@ -25,7 +25,7 @@
   },
   "ammoTypes": {
     "gas": {
-      "type": "ArtilleryBulletType",
+      "type": "ExplosionBulletType",
       "speed": 4,
       "damage": 1,
       "mixColorFrom": "000000",
