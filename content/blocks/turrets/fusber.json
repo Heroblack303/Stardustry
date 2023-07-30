@@ -26,7 +26,7 @@
       "type": "ShrapnelBulletType",
       "length": 40,
       "damage": 90,
-      "ammoMultiplier": 3,
+      "ammoMultiplier": 2,
       "width": 6,
       "reloadMultiplier": 1.5,
       "toColor": "633F3F"
@@ -34,8 +34,8 @@
     "gas": {
       "type": "ShrapnelBulletType",
       "length": 60,
-      "damage": 270,
-      "ammoMultiplier": 5,
+      "damage": 180,
+      "ammoMultiplier": 3,
       "width": 12,
       "reloadMultiplier": 3,
       "toColor": "62AE7F"
