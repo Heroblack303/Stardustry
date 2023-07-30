@@ -25,7 +25,7 @@
     "gen-zomber": {
       "type": "ShrapnelBulletType",
       "length": 40,
-      "damage": 120,
+      "damage": 90,
       "ammoMultiplier": 3,
       "width": 6,
       "reloadMultiplier": 1.5,
@@ -34,7 +34,7 @@
     "gas": {
       "type": "ShrapnelBulletType",
       "length": 60,
-      "damage": 360,
+      "damage": 270,
       "ammoMultiplier": 5,
       "width": 12,
       "reloadMultiplier": 3,
