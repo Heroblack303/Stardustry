@@ -5,9 +5,13 @@
   "targetHealing": true,
   "size": 3,
   "health": 2000,
+  "shoot": {
+    "type": "ShootSpread",
+    "shots": 100,
+    "spread": 10
+  },
   "range": 180,
   "reload": 18,
-  "recoil": 1,
   "shootSound": "none",
   "shootCone": 360,
     "shootX": 0,
@@ -34,11 +38,27 @@
       "collidesTeam": true,
       "knockback": 1,
       "status": "burning"
+    },
+    "":{
+      "type": "MissileBulletType",
+      "length": 180,
+      "sapStrength": "4",
+      "color": "000000",
+      "lightColor": "000000",
+      "trailColor": "000000",
+      "backColor": "000000",
+      "lifetime": 45,
+      "healPercent": 1,
+      "collidesTeam": true,
+      "knockback": 1,
+      "status": "burning"
+    
     }
   },
   "rotateSpeed": 200,
   "targetAir": true,
   "targetGround": true,
+  "recoil": 0,
   "requirements": [
     "gen-zomber/5000",
     "gen-evolutionary/2500",
