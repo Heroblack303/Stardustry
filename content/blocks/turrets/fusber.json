@@ -3,8 +3,8 @@
   "name": "Fusber",
   "description": "Fires many close-range piercing bolts at nearby enemies, similar power fuse.",
   "reload": 54,
-  "shake": 3,
-  "recoil": 5,
+  "shake": 5,
+  "recoil": 3,
   "range": 100,
   "shoot": {
     "type": "ShootSpread",
