@@ -33,7 +33,7 @@
       "pierceCap": 10,
       "mixColorFrom": "d4816b",
       "mixColorTo": "ffd37f",
-      "healPercent": 0,
+      "healPercent": 1,
       "collidesTeam": true,
       "knockback": 1,
       "liquid": "water"
