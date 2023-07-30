@@ -11,7 +11,7 @@
     "spread": 10
   },
   "range": 200,
-  "reload": 9,
+  "reload": 18,
   "shootSound": "none",
   "shootCone": 360,
     "shootX": 0,
@@ -25,7 +25,7 @@
   },
   "ammoTypes": {
     "gas": {
-      "type": "LaserBoltBulletType",
+      "type": "ExplosionEffect",
       "speed": 5,
       "damage": 1,
       "mixColorFrom": "84F491",
