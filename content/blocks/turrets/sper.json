@@ -28,14 +28,12 @@
       "type": "SapBulletType",
       "damage": 25,
       "length": 180,
-      "sapStrength": "4",
       "color": "000000",
       "lightColor": "000000",
       "trailColor": "000000",
       "backColor": "000000",
       "lifetime": 45,
       "healPercent": 1,
-      "collidesTeam": true,
       "knockback": 1,
       "status": "burning"
     }
