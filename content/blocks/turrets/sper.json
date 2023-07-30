@@ -11,7 +11,7 @@
     "spread": 10
   },
   "range": 180,
-  "reload": 36,
+  "reload": 72,
   "shootSound": "none",
   "shootCone": 360,
     "shootX": 0,
@@ -27,7 +27,7 @@
     "gas": {
       "type": "LaserBoltBulletType",
       "speed": 4,
-      "damage": 20,
+      "damage": 44,
       "lifetime": 45,
       "pierce": true,
       "pierceCap": 10,
