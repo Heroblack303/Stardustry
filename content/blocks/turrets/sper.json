@@ -5,13 +5,9 @@
   "targetHealing": true,
   "size": 3,
   "health": 2000,
-  "shoot": {
-    "type": "ShootSpread",
-    "shots": 500,
-    "spread": 10
-  },
   "range": 180,
   "reload": 18,
+  "recoil": 1,
   "shootSound": "none",
   "shootCone": 360,
     "shootX": 0,
@@ -43,7 +39,6 @@
   "rotateSpeed": 200,
   "targetAir": true,
   "targetGround": true,
-  "recoil": 0,
   "requirements": [
     "gen-zomber/5000",
     "gen-evolutionary/2500",
