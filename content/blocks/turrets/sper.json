@@ -25,10 +25,13 @@
   "ammoTypes": {
     "gas": {
       "type": "LaserBoltBulletType",
-      "speed": 10,
-      "damage": 11,
+      "speed": 5,
+      "damage": 5,
+      "mixColorFrom": "84F491",
+      "mixColorTo": "62AE7F",
       "lifetime": 45,
       "healPercent": 1,
+      "collidesTeam": true,
       "knockback": 1,
       "status": "burning"
     }
