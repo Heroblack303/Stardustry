@@ -7,11 +7,11 @@
   "health": 2000,
   "shoot": {
     "type": "ShootSpread",
-    "shots": 120,
-    "spread": 6
+    "shots": 100,
+    "spread": 10
   },
   "range": 180,
-  "reload": 18,
+  "reload": 36,
   "shootSound": "none",
   "shootCone": 360,
     "shootX": 0,
@@ -27,7 +27,7 @@
     "gas": {
       "type": "LaserBoltBulletType",
       "speed": 4,
-      "damage": 4,
+      "damage": 20,
       "lifetime": 45,
       "pierce": true,
       "pierceCap": 10,
@@ -40,7 +40,7 @@
       "mixColorFrom": "000000",
       "mixColorTo": "000000",
       "frontColor": "000000",
-      "healPercent": 1,
+      "healPercent": 5,
       "collidesTeam": true,
       "knockback": 1,
       "liquid": "water"
