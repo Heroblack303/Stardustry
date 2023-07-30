@@ -29,20 +29,6 @@
       "damage": 25,
       "length": 180,
       "sapStrength": "4",
-      "shootEffect": "shootLiquid",
-      "hitEffect": "hitLiquid",
-      "color": "84F491",
-      "lightColor": "62AE7F",
-      "lifetime": 45,
-      "healPercent": 1,
-      "collidesTeam": true,
-      "knockback": 1,
-      "status": "burning"
-    },
-    "":{
-      "type": "MissileBulletType",
-      "length": 180,
-      "sapStrength": "4",
       "color": "000000",
       "lightColor": "000000",
       "trailColor": "000000",
@@ -52,7 +38,6 @@
       "collidesTeam": true,
       "knockback": 1,
       "status": "burning"
-    
     }
   },
   "rotateSpeed": 200,
