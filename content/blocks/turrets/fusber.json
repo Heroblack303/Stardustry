@@ -24,18 +24,20 @@
   "ammoTypes": {
     "gen-zomber": {
       "type": "ShrapnelBulletType",
-      "length": 50,
-      "damage": 60,
+      "length": 40,
+      "damage": 120,
       "ammoMultiplier": 3,
-      "width": 12,
+      "width": 6,
       "reloadMultiplier": 1.5,
       "toColor": "633F3F"
     },
     "gas": {
       "type": "ShrapnelBulletType",
-      "length": 100,
-      "damage": 120,
-      "ammoMultiplier": 6,
+      "length": 60,
+      "damage": 240,
+      "ammoMultiplier": 5,
+      "width": 12,
+      "reloadMultiplier": 3,
       "toColor": "62AE7F"
     }
   },
