@@ -35,6 +35,8 @@
       "trailColor": "000000",
       "lightColor": "000000",
       "backColor": "000000",
+      "colorFrom": "000000",
+      "colorTo": "000000",
       "healPercent": 1,
       "collidesTeam": true,
       "knockback": 1,
