@@ -1,0 +1,46 @@
+{
+  "type": "ItemTurret",
+  "name": "Sper",
+  "description": "Puts out nearby fires at high efficiency. Not useful in combat, as it deals no damage.",
+  "size": 3,
+  "health": 2000,
+  "shoot": {
+    "type": "ShootSpread",
+    "shots": 100,
+    "spread": 5
+  },
+  "range": 200,
+  "reload": 1,
+  "shootSound": "none",
+  "shootCone": 360,
+    "shootX": 0,
+    "shootY": 0,
+  "shootEffect": {
+    "type": "ParticleEffect",
+    "colorFrom": "84F491",
+    "colorTo": "62AE7F",
+    "cone": 360,
+    "lifetime": 50
+  },
+  "ammoTypes": {
+    "gas": {
+      "type": "LiquidBulletType",
+      "damage": 11,
+      "lifetime": 45,
+      "healPercent": 1,
+      "knockback": 1,
+      "status": "burning"
+    }
+  },
+  "rotateSpeed": 200,
+  "targetAir": true,
+  "targetGround": true,
+  "recoil": 0,
+  "requirements": [
+    "gen-zomber/5000",
+    "gen-evolutionary/2500",
+    "gas/1250"
+  ],
+  "category": "turret",
+  "research": "gen-zomber"
+}
