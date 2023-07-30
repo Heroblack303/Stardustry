@@ -24,7 +24,7 @@
     "lifetime": 50
   },
   "ammoTypes": {
-    "water": {
+    "gas": {
       "type": "LaserBoltBulletType",
       "damage": 0,
       "lifetime": 57,
