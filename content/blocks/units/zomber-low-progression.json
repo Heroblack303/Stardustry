@@ -7,7 +7,7 @@
   "constructTime": 300,
   "upgrades": [
     ["zomber", "zomber-knight"],
-    ["zomber-mining", "zomber-aviation"]
+    ["zomber-mining", "zomber-mining-super"]
     ],
   "consumes": {
       "items": {
