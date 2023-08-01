@@ -12,7 +12,7 @@
     "commandLimit": 10,
     "lowAltitude": false,
     "engineSize": 1,
-    "buildSpeed": 10,
+    "buildSpeed": 15,
     "outlineColor": 543636,
     "weapons": [
         {

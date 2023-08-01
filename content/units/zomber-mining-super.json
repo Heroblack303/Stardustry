@@ -6,7 +6,8 @@
 "speed": 0.6,
 "mineItems": [
     "gen-evolutionary",
-    "gas"
+    "gas",
+    "scrap"
   ],
 "drag": 0.1,
 "hitSize": 5,

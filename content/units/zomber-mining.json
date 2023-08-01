@@ -5,7 +5,8 @@
 "defaultController": "minerAI",
 "speed": 0.7,
 "mineItems": [
-    "gen-evolutionary"
+    "gen-evolutionary",
+    "scrap"
   ],
 "drag": 0.1,
 "hitSize": 5,
