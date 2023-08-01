@@ -4,13 +4,13 @@
   "description": "Zomber core.",
   "size": 5,
   "researchCostMultiplier": 0.5,
-  "health": 3000,
-  "itemCapacity": 20000,
+  "health": 5000,
+  "itemCapacity": 10000,
   "requirements": [
-    { "item": "gen-zomber","amount": 3000}
+    { "item": "gen-zomber","amount": 2000}
   ],
   "category": "effect",
   "research": "gen-zomber",
   "unitType": "zomber-origins",
-  "unitCapModifier": 64
+  "unitCapModifier": 25
 }
