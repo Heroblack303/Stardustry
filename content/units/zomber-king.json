@@ -33,7 +33,7 @@
       "serrations": 0,
       "damage": 100,
       "lightning": 20,
-      "lightningDamage": 8,
+      "lightningDamage": 6,
       "lightningLength": 4,
       "lightningCone": 120,
       "lightningLengthRand": 4,
@@ -64,7 +64,7 @@
     "bullet": {
       "type": "SapBulletType",
       "damage": 25,
-      "length": 300,
+      "length": 200,
       "sapStrength": "4",
       "shootEffect": "shootLiquid",
       "hitEffect": "hitLiquid",
@@ -84,7 +84,7 @@
     "bullet": {
       "type": "SapBulletType",
       "damage": 25,
-      "length": 150,
+      "length": 200,
       "sapStrength": "4",
       "shootEffect": "shootLiquid",
       "hitEffect": "hitLiquid",

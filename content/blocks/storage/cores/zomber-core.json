@@ -12,5 +12,5 @@
   "category": "effect",
   "research": "gen-zomber",
   "unitType": "zomber-origins",
-  "unitCapModifier": 128
+  "unitCapModifier": 64
 }
