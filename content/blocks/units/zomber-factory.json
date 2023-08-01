@@ -10,20 +10,20 @@
     {
       "unit": "zomber",
       "requirements": [
-        "gen-zomber/500"
+        "gen-zomber/200"
       ],
       "time": 150
     },
     {
       "unit": "zomber-mining",
       "requirements": [
-        "gen-zomber/50"
+        "gen-zomber/40"
       ],
       "time": 60
     }
   ],
   "requirements": [
-    "gen-zomber/500"
+    "gen-zomber/400"
   ],
   "category": "units",
   "research": "zomber-core"

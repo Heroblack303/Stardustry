@@ -7,6 +7,8 @@
   "shake": 5,
   "recoil": 5,
   "range": 100,
+  "targetAir": true,
+  "targetGround": true,
   "shoot": {
     "type": "ShootSpread",
     "spread": 15,
@@ -45,8 +47,8 @@
   "category": "turret",
   "research": "gen-zomber",
   "requirements": [
-    "gen-zomber/2000",
-    "gen-evolutionary/1000",
-    "gas/500"
+    "gen-zomber/500",
+    "gen-evolutionary/2000",
+    "gas/1000"
   ]
 }

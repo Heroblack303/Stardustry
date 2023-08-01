@@ -12,12 +12,12 @@
   "consumes": {
       "items": {
           "items": [
-            "gen-evolutionary/1000"
+            "gen-evolutionary/600"
           ]
       }
   },
   "requirements": [
-    "gen-zomber/1000"
+    "gen-zomber/1200"
   ],
   "category": "units",
   "research": "zomber-factory"

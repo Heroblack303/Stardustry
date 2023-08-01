@@ -12,14 +12,14 @@
   "consumes": {
       "items": {
           "items": [
-            "gen-evolutionary/8000",
-            "gas/2000"
+            "gen-evolutionary/1200",
+            "gas/4800"
           ]
       }
   },
   "requirements": [
-    "gen-zomber/8000",
-    "gas/4000"
+    "gen-zomber/4800",
+    "gas/2400"
   ],
   "category": "units",
   "research": "zomber-medium-progression"

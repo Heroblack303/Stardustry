@@ -7,7 +7,8 @@
 "range": 100,
 "reload": 18,
 "recoil": 1,
-"targetAir": false,
+"targetAir": true,
+"targetGround": true,
 "outlineColor": 543636,
 "shootSound": "flame",
 "ammoTypes": {
@@ -66,7 +67,7 @@
 "category": "turret",
 "research": "gen-zomber",
 "requirements": [
-  "gen-zomber/500",
-  "gen-evolutionary/250"
+  "gen-zomber/250",
+  "gen-evolutionary/500"
 ]
 }

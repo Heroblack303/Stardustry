@@ -51,9 +51,9 @@
   "targetGround": true,
   "recoil": 0,
   "requirements": [
-    "gen-zomber/5000",
-    "gen-evolutionary/2500",
-    "gas/1250"
+    "gen-zomber/1000",
+    "gen-evolutionary/4000",
+    "gas/2000"
   ],
   "category": "turret",
   "research": "gen-zomber"
