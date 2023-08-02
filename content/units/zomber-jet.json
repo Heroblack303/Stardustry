@@ -17,7 +17,7 @@
     "weapons": [
         {
             "name": "none",
-            "reload": 72,
+            "reload": 360,
             "recoil": 0,
             "mirror": false,
             "shootSound": "claws-wave",
@@ -29,10 +29,10 @@
                 "speed": 3,
                 "lifetime": 1,
                 "recoil": -10,
-                "damage": 100,
-                "splashDamage": 150,
-                "splashDamageRadius": 75,
-                "lightning": 10,
+                "damage": 1000,
+                "splashDamage": 250,
+                "splashDamageRadius": 250,
+                "lightning": 50,
                 "lightningDamage": 8,
                 "lightningLength": 4,
                 "lightningCone": 120,

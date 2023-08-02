@@ -2,13 +2,13 @@
   "type": "mech",
   "name": "[red]Zomber King",
   "description": "Zomber King.",
-  "speed": 0.5,
+  "speed": 0.4,
   "rotate": true,
   "rotateSpeed" : 1,
   "research": "zomber-high-progression",
   "canAttack": false,
   "armor": 350,
-  "health": 7000,
+  "health": 14000,
   "flying": false,
   "itemCapacity": 200,
   "hitSize": 20,
@@ -31,7 +31,7 @@
       "length": 16,
       "width": 0,
       "serrations": 0,
-      "damage": 100,
+      "damage": 180,
       "lightning": 20,
       "lightningDamage": 6,
       "lightningLength": 4,
@@ -59,11 +59,11 @@
     "shootY": 10,
     "x": 16,
     "y": -4,
-    "reload": 18,
+    "reload": 9,
     "shootSound": "sap",
     "bullet": {
       "type": "SapBulletType",
-      "damage": 25,
+      "damage": 50,
       "length": 200,
       "sapStrength": "4",
       "shootEffect": "shootLiquid",
@@ -83,7 +83,7 @@
     "shootSound": "sap",
     "bullet": {
       "type": "SapBulletType",
-      "damage": 25,
+      "damage": 50,
       "length": 200,
       "sapStrength": "4",
       "shootEffect": "shootLiquid",
@@ -92,6 +92,15 @@
       "lightColor": "84F491",
       "knockback": -5
     }
+  }
+],
+"abilities": [
+  {
+    "type": "mindustry.entities.abilities.ForceFieldAbility",
+    "radius": 60,
+    "regen": 5,
+    "max": 6000,
+    "cooldown": 300
   }
 ]
 }
