@@ -10,7 +10,7 @@
     {
       "unit": "human",
       "requirements": [
-        "gen-zomber/20"
+        "gen-human/20"
       ],
       "time": 60
     }
