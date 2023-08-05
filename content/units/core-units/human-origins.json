@@ -1,0 +1,18 @@
+{
+  "type": "tank",
+  "name": "[blue]Human origins",
+  "description": "Human origins.",
+  "speed": 0.8,
+  "rotateSpeed" : 1.5,
+  "research": "human-core",
+  "buildSpeed": 1,
+  "mineSpeed": 5,
+  "mineTier": 3,
+  "canAttack": false,
+  "armor": 6,
+  "health": 120,
+  "flying": false,
+  "itemCapacity": 25,
+  "hitSize": 6,
+  "outlineColor": 1300E0
+}

@@ -1,0 +1,21 @@
+{
+  "type": "GenericCrafter",
+  "name": "Gen Human Basic",
+  "description": "Gen Human Basic.",
+  "health": 10000,
+  "size": 2,
+  "requirements": [
+    { "item": "gen", "amount": 100}
+  ],
+  "research": "mini-core",
+  "hasPower": false,
+  "hasItems": true,
+  "craftTime": 600,
+  "consumes": {
+  },
+  "updateEffect": "smeltsmoke",
+  "category": "production",
+  "idleSoundVolume": 0.5,
+  "itemCapacity": 1000,
+  "outputItem": { "item": "gen-human", "amount": 250}
+}

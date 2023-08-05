@@ -1,0 +1,16 @@
+{
+  "type": "CoreBlock",
+  "name": "Core: Human",
+  "description": "Human core.",
+  "size": 3,
+  "researchCostMultiplier": 0.5,
+  "health": 6000,
+  "itemCapacity": 6000,
+  "requirements": [
+    { "item": "gen-human","amount": 1000}
+  ],
+  "category": "effect",
+  "research": "gen-human",
+  "unitType": "zomber-origins",
+  "unitCapModifier": 15
+}

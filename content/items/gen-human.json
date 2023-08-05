@@ -1,0 +1,12 @@
+{
+  "name": "[blue]Gen Human",
+  "description": "This is the gene of the Human race, the melee race is very strong.",
+  "cost": 1,
+  "color": "1300E0",
+  "hardness": 1,
+  "flammability": 0.1,
+  "explosiveness": 0.1,
+  "radioactivity": 0.1,
+  "charge": 0.1,
+   "research": {}
+}
