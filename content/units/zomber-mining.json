@@ -1,5 +1,5 @@
 {
-"type": "mech",
+"type": "flying",
 "name": "[red]Zomber mining",
 "description": "Zomber mining.",
 "defaultController": "minerAI",
@@ -16,6 +16,7 @@
 "mineSpeed": 4,
 "mineTier": 1,
 "health": 150,
+"flying": false,
 "itemCapacity": 5,
 "armor": 15
 }

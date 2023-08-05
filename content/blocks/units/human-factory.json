@@ -1,0 +1,23 @@
+{
+  "type": "unitFactory",
+  "name": "[blue]Human Factory",
+  "description": "Human Factory.",
+  "health": 200,
+  "size": 2,
+  "consumes": {
+  },
+  "plans": [
+    {
+      "unit": "human",
+      "requirements": [
+        "gen-zomber/20"
+      ],
+      "time": 60
+    }
+  ],
+  "requirements": [
+    "gen-human/200"
+  ],
+  "category": "units",
+  "research": "human-core"
+}
