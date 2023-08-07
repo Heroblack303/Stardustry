@@ -1,7 +1,7 @@
 {
   "type": "OreBlock",
   "oreDefault": true,
-  "oreScale": 40,
+  "oreScale": 20,
   "oreThreshold": 0.84,
   "itemDrop": "gas"
 }
