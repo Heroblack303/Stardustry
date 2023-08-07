@@ -1,6 +1,6 @@
 {
-  "name": "Human Drill ",
-  "description": "A Human version of the mechanical drill.",
+  "name": "Human Drill Super",
+  "description": "A Human version of the Super mechanical drill.",
   "type": "Drill",
   "health": 5000,
   "size": 1,
