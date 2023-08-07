@@ -6,7 +6,7 @@
   "size": 1,
   "tier": 1,
   "itemCapacity": 5,
-  "drillTime": 15,
+  "drillTime": 10,
   "drawMineItem": false,
   "requirements": [
     {
