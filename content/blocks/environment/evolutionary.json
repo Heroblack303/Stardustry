@@ -1,7 +1,7 @@
 {
   "type": "OreBlock",
   "oreDefault": true,
-  "oreScale": 1,
-  "oreThreshold": 0.96,
+  "oreScale": 10,
+  "oreThreshold": 0.90,
   "itemDrop": "gen-evolutionary"
 }
