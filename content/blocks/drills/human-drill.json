@@ -6,7 +6,7 @@
   "size": 1,
   "tier": 1,
   "itemCapacity": 5,
-  "drillTime": 10,
+  "drillTime": 16,
   "drawMineItem": false,
   "requirements": [
     {"item": "gen-human","amount": 50}
