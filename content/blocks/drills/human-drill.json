@@ -9,10 +9,7 @@
   "drillTime": 10,
   "drawMineItem": false,
   "requirements": [
-    {
-      "item": "gen-human",
-      "amount": 50
-    }
+    {"item": "gen-human","amount": 50}
   ],
   "category": "production",
   "research": "gen-human"

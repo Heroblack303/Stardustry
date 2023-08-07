@@ -1,0 +1,17 @@
+{
+  "name": "Human Drill ",
+  "description": "A Human version of the mechanical drill.",
+  "type": "Drill",
+  "health": 5000,
+  "size": 1,
+  "tier": 10,
+  "itemCapacity": 10,
+  "drillTime": 5,
+  "drawMineItem": false,
+  "requirements": [
+    {"item": "gen-human","amount": 400},
+    {"item": "gen-evolutionary","amount": 800}
+  ],
+  "category": "production",
+  "research": "human-drill"
+}

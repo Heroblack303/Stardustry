@@ -1,0 +1,22 @@
+{
+  "type": "GenericCrafter",
+  "name": "Gen Human High",
+  "description": "Gen Human High.",
+  "health": 1000,
+  "size": 3,
+  "requirements": [
+    { "item": "gen-human", "amount": 250},
+    { "item": "gen-evolutionary", "amount": 500}
+  ],
+  "research": "gen-human-high",
+  "hasPower": false,
+  "hasItems": true,
+  "craftTime": 90,
+  "consumes": {
+  },
+  "updateEffect": "smeltsmoke",
+  "category": "production",
+  "idleSoundVolume": 0.5,
+  "itemCapacity": 20,
+  "outputItem": { "item": "gen-human", "amount": 10}
+}

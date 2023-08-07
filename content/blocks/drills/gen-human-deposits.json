@@ -1,0 +1,21 @@
+{
+  "type": "GenericCrafter",
+  "name": "Gen Human Deposits",
+  "description": "Gen Human Deposits.",
+  "health": 1000,
+  "size": 2,
+  "requirements": [
+    { "item": "gen-human", "amount": 125}
+  ],
+  "research": "gen-human-basic",
+  "hasPower": false,
+  "hasItems": true,
+  "craftTime": 120,
+  "consumes": {
+  },
+  "updateEffect": "smeltsmoke",
+  "category": "production",
+  "idleSoundVolume": 0.5,
+  "itemCapacity": 10,
+  "outputItem": { "item": "gen-human", "amount": 5}
+}
