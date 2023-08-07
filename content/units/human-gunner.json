@@ -1,0 +1,47 @@
+{
+  "type": "mech",
+  "name": "[blue]Human",
+  "description": "Human.",
+  "speed": 0.5,
+  "rotateSpeed" : 1.5,
+  "research": "human-factory",
+  "buildSpeed": 0.25,
+  "canAttack": false,
+  "armor": 2,
+  "health": 40,
+  "flying": false,
+  "itemCapacity": 5,
+  "hitSize": 4,
+  "outlineColor": "4A4B53",
+  "weapons": [
+    {
+      "name": "human-gunner-weapon",
+      "x": 4,
+      "y": 0,
+      "reload": 9,
+      "recoil": -4,
+      "top": false,
+      "alternate": true,
+      "heatColor": "4A4B53",
+      "shootY": 0,
+      "shootX": 0,
+      "shootSound": "lasershoot",
+      "bullet": {
+        "type": "LaserBoltBulletType",
+        "speed": 9,
+        "buildingDamageMultiplier": 0.5,
+        "damage": 1,
+        "pierce": true,
+        "pierceCap": 5,
+        "splashDamage": 1,
+        "mixColorFrom": "1300E0",
+        "mixColorTo": "6464FF",
+        "splashDamageRadius": 1,
+        "homingRange": 40,
+        "homingPower": 0.2,
+        "healPercent": 5,
+        "collidesTeam": true
+      }
+    }
+  ]
+}

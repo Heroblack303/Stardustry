@@ -8,11 +8,25 @@
   },
   "plans": [
     {
-      "unit": "human",
+      "unit": "human-melee",
       "requirements": [
-        "gen-human/20"
+        "gen-human/50"
       ],
-      "time": 60
+      "time": 120
+    },
+    {
+      "unit": "human-gunner",
+      "requirements": [
+        "gen-human/50"
+      ],
+      "time": 120
+    },
+    {
+      "unit": "human-air-force",
+      "requirements": [
+        "gen-human/10"
+      ],
+      "time": 30
     }
   ],
   "requirements": [

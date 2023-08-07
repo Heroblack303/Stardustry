@@ -1,0 +1,13 @@
+ {"type": "ItemBridge",
+  "name": "[blue]Human bridge",
+  "description": "Human bridge.",
+  "health": 100,
+  "range": 10,
+  "transportTime": 4,
+  "hasPower": false,
+"requirements": [
+  "gen-human/8"
+],
+"category": "distribution",
+"research": "gen-human"
+}

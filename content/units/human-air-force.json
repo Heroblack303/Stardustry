@@ -1,0 +1,18 @@
+{
+    "type": "flying",
+    "name": "[blue]Human Air Force",
+    "description": "Human Air Force.",
+    "hitSize": 2,
+    "speed": 1,
+    "health": 20,
+    "armor": 1,
+    "rotateSpeed": 30,
+    "flying": true,
+    "engineOffset": 5,
+    "commandLimit": 10,
+    "lowAltitude": false,
+    "engineSize": 1,
+    "buildSpeed": 0.5,
+    "outlineColor": "4A4B53",
+    "research":"human-factory"
+}
