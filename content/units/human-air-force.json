@@ -2,7 +2,7 @@
     "type": "flying",
     "name": "[blue]Human Air Force",
     "description": "Human Air Force.",
-    "hitSize": 2,
+    "hitSize": 3,
     "speed": 1,
     "health": 20,
     "armor": 1,

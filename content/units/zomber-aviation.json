@@ -2,7 +2,7 @@
     "type": "flying",
     "name": "[red]Zomber Aviation",
     "description": "Zomber Aviation.",
-    "hitSize": 6,
+    "hitSize": 12,
     "speed": 3,
     "health": 400,
     "armor": 20,

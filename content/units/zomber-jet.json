@@ -2,7 +2,7 @@
     "type": "flying",
     "name": "[red]Zomber Jet",
     "description": "Zomber Jet.",
-    "hitSize": 6,
+    "hitSize": 18,
     "speed": 6,
     "health": 4000,
     "armor": 200,
