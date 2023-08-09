@@ -30,7 +30,7 @@
         }
     ]
   },
-  "category": "crafting",
+  "category": "production",
   "idleSoundVolume": 0.5,
   "itemCapacity": 10,
   "outputItem": { "item": "gas-energy-core", "amount": 1}
