@@ -19,18 +19,10 @@
         {
           "item": "gas",
           "amount": 2
-        },
-        {
-          "item": "gen-evolutionary",
-          "amount": 1
-        },
-        {
-          "item": "gen-human",
-          "amount": 1
         }
     ]
   },
-  "category": "production",
+  "category": "crafting",
   "idleSoundVolume": 0.5,
   "itemCapacity": 10,
   "outputItem": { "item": "gas-energy-core", "amount": 1}
