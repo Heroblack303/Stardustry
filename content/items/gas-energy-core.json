@@ -1,0 +1,12 @@
+{
+  "name": "Gas Energy Core",
+  "description": "This is an energy core made from gas for human military machinery.",
+  "cost": 1,
+  "color": "477d5b",
+  "hardness": 10,
+  "flammability": 0.5,
+  "explosiveness": 10,
+  "radioactivity": 5,
+  "charge": 0.1,
+   "research": {}
+}

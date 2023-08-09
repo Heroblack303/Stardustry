@@ -34,6 +34,8 @@
         "pierce": true,
         "pierceCap": 5,
         "splashDamage": 1,
+        "color": "1300E0",
+        "lightColor": "6464FF",
         "mixColorFrom": "1300E0",
         "mixColorTo": "6464FF",
         "splashDamageRadius": 1,
