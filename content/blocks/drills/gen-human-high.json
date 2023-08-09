@@ -2,7 +2,7 @@
   "type": "GenericCrafter",
   "name": "Gen Human High",
   "description": "Gen Human High.",
-  "health": 1000,
+  "health": 1500,
   "size": 3,
   "requirements": [
     { "item": "gen-human", "amount": 250},

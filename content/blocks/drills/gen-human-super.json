@@ -2,7 +2,7 @@
   "type": "GenericCrafter",
   "name": "Gen Human Super",
   "description": "Gen Human Super.",
-  "health": 1000,
+  "health": 2000,
   "size": 4,
   "requirements": [
     { "item": "gen-human", "amount": 1000},

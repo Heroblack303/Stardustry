@@ -2,7 +2,7 @@
   "type": "GenericCrafter",
   "name": "Gen Zomber High",
   "description": "Gen Zomber High.",
-  "health": 1000,
+  "health": 1500,
   "size": 3,
   "requirements": [
     { "item": "gen-zomber", "amount": 500},

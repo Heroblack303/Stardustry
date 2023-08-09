@@ -2,7 +2,7 @@
   "type": "GenericCrafter",
   "name": "Gen Zomber Super",
   "description": "Gen Zomber Super.",
-  "health": 1000,
+  "health": 2000,
   "size": 4,
   "requirements": [
     { "item": "gen-zomber", "amount": 2000},
