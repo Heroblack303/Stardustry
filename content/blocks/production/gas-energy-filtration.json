@@ -30,7 +30,6 @@
         }
     ]
   },
-  "idleSoundVolume": 0.5,
   "outputItem": { "item": "gas-energy-core", "amount": 1}
 }
 }
