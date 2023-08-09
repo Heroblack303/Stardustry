@@ -9,6 +9,11 @@
     { "item": "gen-evolutionary", "amount": 200},
     { "item": "gas", "amount": 100}
   ],
+  "updateEffect": "smeltsmoke",
+  "category": "crafting",
+  "idleSoundVolume": 0.5,
+  "itemCapacity": 10,
+  "outputItem": { "item": "gas-energy-core", "amount": 1},
   "research": "gas",
   "hasPower": false,
   "hasItems": true,
@@ -20,11 +25,6 @@
         { "item": "gen-evolutionary", "amount": 1},
         { "item": "gen-human", "amount": 1}
     ]
-  },
-  "updateEffect": "smeltsmoke",
-  "category": "crafting",
-  "idleSoundVolume": 0.5,
-  "itemCapacity": 10,
-  "outputItem": { "item": "gas-energy-core", "amount": 1}
+  }
 }
 }
