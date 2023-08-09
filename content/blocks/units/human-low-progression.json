@@ -1,0 +1,25 @@
+{
+  "type": "Reconstructor",
+  "name": "[red]Human Low Progression",
+  "description": "Evolution began recently.",
+  "health": 400,
+  "size": 2,
+  "constructTime": 240,
+  "upgrades": [
+    ["human-gunner", "human-machine-gun"],
+    ["human-melee", "human-stun-gun"],
+    ["human-air-force", "human-mono"]
+    ],
+  "consumes": {
+      "items": {
+          "items": [
+            "gen-evolutionary/200"
+          ]
+      }
+  },
+  "requirements": [
+    "gen-zomber/400"
+  ],
+  "category": "units",
+  "research": "human-factory"
+}

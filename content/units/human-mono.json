@@ -2,7 +2,8 @@
     "type": "flying",
     "name": "[blue]Human Air Force",
     "description": "Human Air Force.",
-    "hitSize": 3,
+    "targetHealing": true,
+    "hitSize": 6,
     "speed": 2,
     "health": 40,
     "armor": 2,
@@ -14,5 +15,28 @@
     "engineSize": 1,
     "buildSpeed": 1,
     "outlineColor": "4A4B53",
-    "research":"human-factory"
+    "research":"human-low-progression",
+    "weapons": [
+    {
+        "name": "none",
+        "mirror": false,
+        "shootY": 300,
+        "x": 0,
+        "y": -4,
+        "reload": 18,
+        "shootSound": "sap",
+        "bullet": {
+          "type": "SapBulletType",
+          "damage": 50,
+          "length": 60,
+          "sapStrength": "4",
+          "shootEffect": "shootLiquid",
+          "hitEffect": "hitLiquid",
+          "color": "1300E0",
+          "lightColor": "4AAFFF",
+          "healPercent": 2,
+          "knockback": -5
+        }
+    }
+]
 }
