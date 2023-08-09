@@ -16,9 +16,18 @@
   "consumes": {
     "items": {
       "items": [
-        { "item": "gas", "amount": 2},
-        { "item": "gen-evolutionary", "amount": 1},
-        { "item": "gen-human", "amount": 1}
+        {
+          "item": "gas",
+          "amount": 2
+        },
+        {
+          "item": "gen-evolutionary",
+          "amount": 1
+        },
+        {
+          "item": "gen-human",
+          "amount": 1
+        }
     ]
   },
   "updateEffect": "smeltsmoke",
