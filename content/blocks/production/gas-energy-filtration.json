@@ -16,20 +16,15 @@
   "consumes": {
     "items": {
       "items": [
-        {
-          "item": "gas",
-          "amount": 2
-        },
-        {
-          "item": "gen-evolutionary",
-          "amount": 1
-        },
-        {
-          "item": "gen-human",
-          "amount": 1
-        }
+        { "item": "gas", "amount": 2},
+        { "item": "gen-evolutionary", "amount": 1},
+        { "item": "gen-human", "amount": 1}
     ]
   },
+  "updateEffect": "smeltsmoke",
+  "category": "crafting",
+  "idleSoundVolume": 0.5,
+  "itemCapacity": 10,
   "outputItem": { "item": "gas-energy-core", "amount": 1}
 }
 }
