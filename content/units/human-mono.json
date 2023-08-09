@@ -20,14 +20,13 @@
     {
         "name": "none",
         "mirror": false,
-        "shootY": 300,
         "x": 0,
         "y": -4,
         "reload": 18,
         "shootSound": "sap",
         "bullet": {
           "type": "SapBulletType",
-          "damage": 50,
+          "damage": 20,
           "length": 60,
           "sapStrength": "4",
           "shootEffect": "shootLiquid",
