@@ -1,0 +1,39 @@
+{
+  "type": "mech",
+  "name": "[blue]Human Stun Gun",
+  "description": "Human Stun Gun.",
+  "speed": 0.6,
+  "rotateSpeed" : 1.5,
+  "research": "human-factory",
+  "buildSpeed": 0.5,
+  "canAttack": false,
+  "armor": 8,
+  "health": 160,
+  "flying": false,
+  "itemCapacity": 5,
+  "hitSize": 6,
+  "outlineColor": "4A4B53",
+  "weapons": [
+    {
+      "name": "human-stun-gun-weapon",
+      "x": 4,
+      "y": 0,
+      "reload": 9,
+      "recoil": -4,
+      "top": false,
+      "alternate": true,
+      "heatColor": "4A4B53",
+      "shootY": 0,
+      "shootX": 0,
+      "shootSound": "claws-wave",
+      "bullet": {
+        "type": "LightningBulletType",
+        "damage": 4,
+        "speed": 1,
+        "lightningLength": 10,
+        "lightningLengthRand": 5,
+        "lightningColor": "1300E0"
+    }
+  }
+]
+}
