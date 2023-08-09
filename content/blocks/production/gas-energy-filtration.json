@@ -30,7 +30,6 @@
         }
     ]
   },
-  "updateEffect": "smeltsmoke",
   "category": "crafting",
   "idleSoundVolume": 0.5,
   "itemCapacity": 10,
