@@ -1,7 +1,7 @@
 {
     "type": "flying",
-    "name": "[blue]Human Air Force",
-    "description": "Human Air Force.",
+    "name": "[blue]Human Mono",
+    "description": "Human Mono.",
     "targetHealing": true,
     "hitSize": 6,
     "speed": 2,
