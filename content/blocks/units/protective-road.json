@@ -1,0 +1,15 @@
+{
+"type": "PayloadConveyor",
+"name": "Protective road",
+"description": "Protective road.",
+"size": 2,
+"moveTime": 30,
+"moveForce": 120,
+"payloadLimit": 2,
+"interp": "pow3",
+"category": "units",
+"research": "gen-evolutionary",
+"requirements": [
+  "gen-evolutionary/100"
+]
+}
