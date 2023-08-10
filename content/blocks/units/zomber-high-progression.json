@@ -12,8 +12,8 @@
   "consumes": {
       "items": {
           "items": [
-            "gen-evolutionary/1200",
-            "gas/4800"
+            "gen-evolutionary/1600",
+            "gas/3200"
           ]
       }
   },
