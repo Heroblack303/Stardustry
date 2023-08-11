@@ -1,7 +1,7 @@
 {
   "type": "mech",
-  "name": "[blue]Human Machine Gun",
-  "description": "Human Machine Gun.",
+  "name": "[blue]Human Bullet storm",
+  "description": "Human Bullet storm.",
   "speed": 0.7,
   "rotateSpeed" : 1.5,
   "research": "human-low-progression",
@@ -15,10 +15,10 @@
   "outlineColor": "4A4B53",
   "weapons": [
     {
-      "name": "human-machine-gun-weapon",
+      "name": "human-bullet-storm-weapon",
       "x": 4,
       "y": 0,
-      "reload": 3,
+      "reload": 9,
       "recoil": -4,
       "top": false,
       "alternate": true,
@@ -26,19 +26,20 @@
       "shootY": 0,
       "shootX": 0,
       "shootSound": "lasershoot",
+      "shoot": {
+        "shots": 12,
+        "shotDelay": 1
+      },
+      "mirror": false,
       "bullet": {
+        "speed": 6,
+        "inaccuracy": 10,
         "type": "LaserBoltBulletType",
-        "speed": 4,
-        "damage": 3,
-        "pierce": true,
-        "pierceCap": 5,
-        "splashDamage": 1,
-        "color": "1300E0",
-        "lightColor": "6464FF",
-        "mixColorFrom": "1300E0",
-        "mixColorTo": "6464FF",
-        "splashDamageRadius": 1,
-        "homingRange": 40,
+        "width": 4,
+        "height": 10,
+        "frontColor": "1300E0",
+        "backColor": "6464FF",
+        "damage": 6,
         "collidesTeam": true
       }
     }

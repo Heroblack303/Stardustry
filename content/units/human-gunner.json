@@ -38,8 +38,6 @@
         "mixColorTo": "6464FF",
         "splashDamageRadius": 1,
         "homingRange": 40,
-        "homingPower": 0.2,
-        "healPercent": 5,
         "collidesTeam": true
       }
     }
