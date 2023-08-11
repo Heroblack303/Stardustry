@@ -37,8 +37,8 @@
         "type": "LaserBoltBulletType",
         "width": 4,
         "height": 10,
-        "frontColor": "1300E0",
-        "backColor": "6464FF",
+        "frontColor": "6464FF",
+        "backColor": "4AAFFF",
         "damage": 6,
         "collidesTeam": true
       }
@@ -66,8 +66,8 @@
         "type": "LaserBoltBulletType",
         "width": 4,
         "height": 10,
-        "frontColor": "1300E0",
-        "backColor": "6464FF",
+        "frontColor": "6464FF",
+        "backColor": "4AAFFF",
         "damage": 6,
         "collidesTeam": true
       }
