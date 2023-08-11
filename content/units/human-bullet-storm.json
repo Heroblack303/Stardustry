@@ -15,10 +15,39 @@
   "outlineColor": "4A4B53",
   "weapons": [
     {
-      "name": "human-bullet-storm-weapon",
-      "x": 4,
+      "name": "human-bullet-storm-weapon2",
+      "x": -6,
       "y": 0,
-      "reload": 9,
+      "reload": 27,
+      "recoil": -4,
+      "top": false,
+      "alternate": true,
+      "heatColor": "4A4B53",
+      "shootY": 0,
+      "shootX": 0,
+      "shootSound": "lasershoot",
+      "shoot": {
+        "shots": 12,
+        "shotDelay": 1
+      },
+      "mirror": false,
+      "bullet": {
+        "speed": 6,
+        "inaccuracy": 10,
+        "type": "LaserBoltBulletType",
+        "width": 4,
+        "height": 10,
+        "frontColor": "1300E0",
+        "backColor": "6464FF",
+        "damage": 6,
+        "collidesTeam": true
+      }
+    },
+    {
+      "name": "human-bullet-storm-weapon1",
+      "x": 6,
+      "y": 0,
+      "reload": 27,
       "recoil": -4,
       "top": false,
       "alternate": true,
