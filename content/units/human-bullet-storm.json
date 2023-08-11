@@ -18,7 +18,7 @@
       "name": "human-bullet-storm-weapon2",
       "x": -6,
       "y": 0,
-      "reload": 27,
+      "reload": 18,
       "recoil": -4,
       "top": false,
       "alternate": true,
@@ -27,7 +27,7 @@
       "shootX": 0,
       "shootSound": "lasershoot",
       "shoot": {
-        "shots": 12,
+        "shots": 6,
         "shotDelay": 1
       },
       "mirror": false,
@@ -47,7 +47,7 @@
       "name": "human-bullet-storm-weapon1",
       "x": 6,
       "y": 0,
-      "reload": 27,
+      "reload": 18,
       "recoil": -4,
       "top": false,
       "alternate": true,
@@ -56,7 +56,7 @@
       "shootX": 0,
       "shootSound": "lasershoot",
       "shoot": {
-        "shots": 12,
+        "shots": 6,
         "shotDelay": 1
       },
       "mirror": false,
