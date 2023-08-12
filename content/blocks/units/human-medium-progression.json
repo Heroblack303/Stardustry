@@ -13,14 +13,12 @@
   "consumes": {
       "items": {
           "items": [
-            "gen-evolutionary/400",
-            "gas/100"
+            "gen-evolutionary/400"
           ]
       }
   },
   "requirements": [
-    "gen-human/1200",
-    "gas/300"
+    "gen-human/1600"
   ],
   "category": "units",
   "research": "human-low-progression"

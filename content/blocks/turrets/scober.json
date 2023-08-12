@@ -3,7 +3,7 @@
   "name": "Scober",
   "description": "Singes nearby enemies, similar power scorch.",
 "size": 1,
-"health": 500,
+"health": 1000,
 "range": 100,
 "reload": 18,
 "recoil": 1,

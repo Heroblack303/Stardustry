@@ -4,7 +4,7 @@
   "description": "Puts out nearby fires at high efficiency. Not useful in combat, as it deals no damage.",
   "targetHealing": true,
   "size": 3,
-  "health": 2000,
+  "health": 4000,
   "shoot": {
     "type": "ShootSpread",
     "shots": 100,

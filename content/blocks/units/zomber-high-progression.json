@@ -4,7 +4,7 @@
   "description": "High evolution.",
   "health": 3200,
   "size": 6,
-  "constructTime": 7200,
+  "constructTime": 9600,
   "upgrades": [
     ["zomber-general", "zomber-king"],
     ["zomber-aviation", "zomber-jet"]

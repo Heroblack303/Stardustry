@@ -1,0 +1,49 @@
+{
+  "type": "mech",
+  "name": "[red]Bug",
+  "description": "Bug.",
+  "speed": 0.6,
+  "rotateSpeed" : 1.5,
+  "research": "zomber-factory",
+  "canAttack": false,
+  "armor": 1,
+  "health": 20,
+  "flying": false,
+  "itemCapacity": 1,
+  "hitSize": 2,
+  "outlineColor": 543636,
+  "weapons": [
+    {
+      "name": "none",
+      "x": 0,
+      "y": 0,
+      "reload": 18,
+      "recoil": -4,
+      "top": false,
+      "alternate": true,
+      "heatColor": "543636",
+      "shootY": 0,
+      "shootX": 0,
+      "shootSound": "claws-wave",
+      "bullet": {
+      "type": "ShrapnelBulletType",
+      "length": 4,
+      "width": 0,
+      "serrations": 0,
+      "damage": 1,
+      "homingPower": 0.2,
+      "healPercent": 1,
+      "hitColor": "633F3F",
+      "status": "slow",
+      "hitSound": "malignShoot",
+      "shootEffect": "none",
+      "smokeEffect": "none",
+      "recoil": -1,
+      "hitShake": 2,
+      "maxRange": 32,
+      "range": 32,
+      "rangeOverride": 32
+      }
+    }
+  ]
+}

@@ -13,7 +13,7 @@
   "consumes": {
       "items": {
           "items": [
-            "gen-evolutionary/200"
+            "gen-evolutionary/100"
           ]
       }
   },

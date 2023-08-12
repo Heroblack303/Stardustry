@@ -2,7 +2,7 @@
   "type": "ItemTurret",
   "name": "Fusber",
   "description": "Fires many close-range piercing bolts at nearby enemies, similar power fuse.",
-  "health": 1000,
+  "health": 2000,
   "reload": 54,
   "shake": 5,
   "recoil": 5,

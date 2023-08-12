@@ -2,8 +2,8 @@
     "type": "Unloader",
     "name": "Evolutionary Unloader",
     "description": "Evolutionary Unloader.",
-    "health": 120,
-    "itemCapacity": 0,
+    "health": 600,
+    "itemCapacity": 2,
     "requirements": [
         "gen-evolutionary/8"
     ] ,

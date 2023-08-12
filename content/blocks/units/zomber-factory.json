@@ -8,11 +8,18 @@
   },
   "plans": [
     {
+      "unit": "bug",
+      "requirements": [
+        "gen-zomber/10"
+      ],
+      "time": 30
+    },
+    {
       "unit": "zomber",
       "requirements": [
         "gen-zomber/200"
       ],
-      "time": 150
+      "time": 120
     },
     {
       "unit": "zomber-mining",

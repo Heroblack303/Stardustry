@@ -2,7 +2,7 @@
   "type": "Router",
   "name": "Evolutionary Router",
   "description": "Evolutionary Router.",
-  "health": 80,
+  "health": 400,
   "itemCapacity": 2,
   "requirements": [
     "gen-evolutionary/4"

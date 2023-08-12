@@ -4,7 +4,7 @@
   "description": "Evolution began recently.",
   "health": 800,
   "size": 2,
-  "constructTime": 300,
+  "constructTime": 480,
   "upgrades": [
     ["zomber", "zomber-knight"],
     ["zomber-mining", "zomber-mining-super"]
