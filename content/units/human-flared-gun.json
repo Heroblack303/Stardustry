@@ -48,7 +48,7 @@
         "bullet": {
         "type": "BasicBulletType",
         "speed": 2,
-        "damage": 10,
+        "damage": 15,
         "backColor": "1300E0",
         "frontColor": "6464FF",
         "hitEffect": "hitBulletColor",
@@ -63,7 +63,7 @@
         "sizeTo": 0,
         "colorFrom": "a488eb",
         "colorTo": "a488eb",
-        "hitSize": 6,
+        "hitSize": 10,
         "knockback": 10
         }
         }
