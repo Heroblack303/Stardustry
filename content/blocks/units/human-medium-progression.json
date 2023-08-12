@@ -1,0 +1,27 @@
+{
+  "type": "Reconstructor",
+  "name": "[red]Human Low Progression",
+  "description": "Medium evolution.",
+  "health": 800,
+  "size": 4,
+  "constructTime": 480,
+  "upgrades": [
+    ["human-machine-gun", "human-bullet-storm"],
+    ["human-stun-gun", "human-flared-gun"],
+    ["human-mono", "human-poly"]
+    ],
+  "consumes": {
+      "items": {
+          "items": [
+            "gen-evolutionary/400",
+            "gas/100"
+          ]
+      }
+  },
+  "requirements": [
+    "gen-human/1200",
+    "gas/300"
+  ],
+  "category": "units",
+  "research": "human-low-progression"
+}

@@ -18,7 +18,7 @@
       }
   },
   "requirements": [
-    "gen-zomber/400"
+    "gen-human/400"
   ],
   "category": "units",
   "research": "human-factory"

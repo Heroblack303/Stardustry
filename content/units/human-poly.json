@@ -1,0 +1,75 @@
+{
+    "type": "flying",
+    "name": "[blue]Human Mono",
+    "description": "Human Mono.",
+    "targetHealing": true,
+    "hitSize": 8,
+    "speed": 3,
+    "health": 40,
+    "armor": 2,
+    "rotateSpeed": 30,
+    "flying": true,
+    "engineOffset": 5,
+    "commandLimit": 10,
+    "lowAltitude": false,
+    "engineSize": 1,
+    "buildSpeed": 1,
+    "outlineColor": "4A4B53",
+    "research":"human-low-progression",
+    "weapons": [
+    {
+        "name": "none",
+        "mirror": false,
+        "x": 0,
+        "y": -4,
+        "reload": 36,
+        "shootSound": "lasershoot",
+        "ejectEffect": {
+          "type": "ParticleEffect",
+          "line": true,
+          "particles": 1,
+          "lenFrom": 3,
+          "lenTo": 3,
+          "lifetime": 15,
+          "length": 6,
+          "strokeFrom": 3,
+          "strokeTo": 0,
+          "colorFrom": "6464FF",
+          "colorTo": "6464FF",
+          "casingFlip": true
+          },
+          "inaccuracy": 0.2,
+          "shake": 1,
+          "shoot": {
+          "type": "ShootSpread",
+          "shots": 10,
+          "spread": 5
+          },
+          "bullet": {
+          "type": "BasicBulletType",
+          "speed": 4,
+          "damage": 25,
+          "backColor": "1300E0",
+          "frontColor": "6464FF",
+          "hitEffect": "hitBulletColor",
+          "shootEffect": "shootSmallColor",
+          "smokeEffect": {
+          "type": "ParticleEffect",
+          "particles": 6,
+          "cone": 360,
+          "length": 24,
+          "lifetime": 40,
+          "sizeFrom": 6,
+          "sizeTo": 0,
+          "colorFrom": "a488eb",
+          "colorTo": "a488eb",
+          "hitSize": 10,
+          "knockback": 10,
+          "collidesTeam": true,
+          "homingPower": 0.2,
+          "healPercent": 10
+          }
+        }
+    }
+]
+}
