@@ -23,18 +23,22 @@
         "x": 0,
         "y": -4,
         "reload": 18,
-        "shootSound": "sap",
+        "shootSound": "lasershoot",
         "bullet": {
-          "type": "SapBulletType",
+          "type": "LaserBoltBulletType",
+          "speed": 3,
+          "buildingDamageMultiplier": 0.5,
           "damage": 20,
-          "length": 60,
-          "sapStrength": "4",
-          "shootEffect": "shootLiquid",
-          "hitEffect": "hitLiquid",
-          "color": "1300E0",
-          "lightColor": "4AAFFF",
-          "healPercent": 2,
-          "knockback": -5
+          "pierce": true,
+          "pierceCap": 5,
+          "splashDamage": 1,
+          "mixColorFrom": "1300E0",
+          "mixColorTo": "6464FF",
+          "splashDamageRadius": 1,
+          "homingRange": 40,
+          "collidesTeam": true,
+          "homingPower": 0.2,
+          "healPercent": 10
         }
     }
 ]
