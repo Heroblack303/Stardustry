@@ -42,8 +42,8 @@
         "shake": 1,
         "shoot": {
         "type": "ShootSpread",
-        "shots": 20,
-        "spread": 10
+        "shots": 10,
+        "spread": 20
         },
         "bullet": {
         "type": "BasicBulletType",
