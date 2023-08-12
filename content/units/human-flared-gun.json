@@ -1,0 +1,71 @@
+{
+  "type": "mech",
+  "name": "[blue]Human Flared Gun",
+  "description": "Human Flared Gun.",
+  "speed": 0.6,
+  "rotateSpeed" : 1.5,
+  "research": "human-low-progression",
+  "buildSpeed": 0.5,
+  "canAttack": false,
+  "armor": 8,
+  "health": 160,
+  "flying": false,
+  "itemCapacity": 5,
+  "hitSize": 8,
+  "outlineColor": "4A4B53",
+  "weapons": [
+    {
+      "name": "human-flared-gun-weapon",
+      "x": 6,
+      "y": 0,
+      "reload": 18,
+      "recoil": -4,
+      "top": false,
+      "alternate": true,
+      "heatColor": "4A4B53",
+      "ejectEffect": {
+        "type": "ParticleEffect",
+        "line": true,
+        "particles": 40,
+        "lenFrom": 120,
+        "lenTo": 0,
+        "lifetime": 30,
+        "length": 24,
+        "strokeFrom": 60,
+        "strokeTo": 0,
+        "colorFrom": "1300E0",
+        "colorTo": "1300E0",
+        "casingFlip": true
+        },
+        "shootSound": "shootAltLong",
+        "inaccuracy": 0.2,
+        "shake": 1,
+        "shoot": {
+        "type": "ShootSpread",
+        "shots": 10,
+        "spread": 10
+        },
+        "bullet": {
+        "type": "BasicBulletType",
+        "speed": 1,
+        "damage": 5,
+        "backColor": "6464FF",
+        "frontColor": "1300E0",
+        "hitEffect": "hitBulletColor",
+        "shootEffect": "shootSmallColor",
+        "smokeEffect": {
+        "type": "ParticleEffect",
+        "particles": 6,
+        "cone": 36,
+        "length": 48,
+        "lifetime": 40,
+        "sizeFrom": 12,
+        "sizeTo": 0,
+        "colorFrom": "a488eb",
+        "colorTo": "a488eb",
+        "knockback": 10
+        }
+        }
+  }
+]
+}
