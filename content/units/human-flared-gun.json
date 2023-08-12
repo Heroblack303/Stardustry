@@ -18,7 +18,7 @@
       "name": "human-flared-gun-weapon",
       "x": 6,
       "y": 0,
-      "reload": 18,
+      "reload": 36,
       "recoil": -4,
       "top": false,
       "alternate": true,
@@ -33,8 +33,8 @@
         "length": 12,
         "strokeFrom": 3,
         "strokeTo": 0,
-        "colorFrom": "1300E0",
-        "colorTo": "1300E0",
+        "colorFrom": "6464FF",
+        "colorTo": "6464FF",
         "casingFlip": true
         },
         "shootSound": "shootAltLong",
@@ -42,27 +42,28 @@
         "shake": 1,
         "shoot": {
         "type": "ShootSpread",
-        "shots": 10,
+        "shots": 20,
         "spread": 10
         },
         "bullet": {
         "type": "BasicBulletType",
-        "speed": 1,
+        "speed": 2,
         "damage": 5,
-        "backColor": "6464FF",
-        "frontColor": "1300E0",
+        "backColor": "1300E0",
+        "frontColor": "6464FF",
         "hitEffect": "hitBulletColor",
         "shootEffect": "shootSmallColor",
         "smokeEffect": {
         "type": "ParticleEffect",
         "particles": 6,
-        "cone": 36,
-        "length": 48,
+        "cone": 360,
+        "length": 24,
         "lifetime": 40,
-        "sizeFrom": 12,
+        "sizeFrom": 6,
         "sizeTo": 0,
         "colorFrom": "a488eb",
         "colorTo": "a488eb",
+        "hitSize": 6,
         "knockback": 10
         }
         }
