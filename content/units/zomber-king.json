@@ -47,7 +47,7 @@
       "alternate": true,
       "heatColor": "543636",
       "shootY": 16,
-      "shootX": 6,
+      "shootX": 2,
       "shootSound": "claws-wave",
       "bullet": {
       "type": "ShrapnelBulletType",
