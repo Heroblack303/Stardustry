@@ -39,7 +39,7 @@
   "weapons": [
     {
       "name": "zomber-king-hand",
-      "x": 16,
+      "x": 8,
       "y": 22,
       "reload": 18,
       "recoil": -4,
@@ -47,7 +47,7 @@
       "alternate": true,
       "heatColor": "543636",
       "shootY": 16,
-      "shootX": 2,
+      "shootX": 6,
       "shootSound": "claws-wave",
       "bullet": {
       "type": "ShrapnelBulletType",
