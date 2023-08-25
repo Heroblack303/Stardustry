@@ -32,7 +32,7 @@
   "drownTimeMultiplier": 2,
   "hovering": true,
   "shadowElevation": 0.4,
-  "groundLayer": "Layer.legUnit",
+  "groundLayer": 50,
   "targetAir": true,
   "alwaysShootWhenMoving": true,
   "outlineColor": 543636,
