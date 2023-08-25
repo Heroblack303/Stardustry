@@ -46,8 +46,8 @@
       "top": false,
       "alternate": true,
       "heatColor": "543636",
-      "shootY": 16,
-      "shootX": 6,
+      "shootY": 8,
+      "shootX": 22,
       "shootSound": "claws-wave",
       "bullet": {
       "type": "ShrapnelBulletType",
@@ -77,12 +77,12 @@
     }
   },
   {
-    "name": "zomber-king-weapon1",
+    "name": "none",
     "mirror": false,
     "shootY": 10,
     "x": 16,
     "y": -4,
-    "reload": 9,
+    "reload": 18,
     "shootSound": "sap",
     "bullet": {
       "type": "SapBulletType",
@@ -97,7 +97,7 @@
     }
   },
   {
-    "name": "zomber-king-weapon2",
+    "name": "none",
     "mirror": false,
     "shootY": 300,
     "x": 16,
@@ -117,12 +117,12 @@
     }
   },
   {
-    "name": "zomber-king-weapon1",
+    "name": "none",
     "mirror": false,
     "shootY": 10,
     "x": -10,
     "y": -4,
-    "reload": 9,
+    "reload": 36,
     "shootSound": "sap",
     "bullet": {
       "type": "SapBulletType",
@@ -137,12 +137,12 @@
     }
   },
   {
-    "name": "zomber-king-weapon2",
+    "name": "none",
     "mirror": false,
     "shootY": 300,
     "x": -10,
     "y": -4,
-    "reload": 18,
+    "reload": 36,
     "shootSound": "sap",
     "bullet": {
       "type": "SapBulletType",
