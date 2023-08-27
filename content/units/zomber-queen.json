@@ -16,7 +16,7 @@
   "legContinuousMove": true,
   "legStraightness": 0.6,
   "baseLegStraightness": 0.5,
-  "legCount": 6,
+  "legCount": 12,
   "legLength": 30,
   "legForwardScl": 2,
   "legMoveSpace" : 1.0,
@@ -126,17 +126,17 @@
   },
   {
     "type": "mindustry.entities.abilities.ForceFieldAbility",
-    "radius": 100,
+    "radius": 75,
     "regen": 1,
-    "max": 1500,
+    "max": 3000,
     "cooldown": 300,
     "sides": 3
     },
     {
     "type": "mindustry.entities.abilities.ForceFieldAbility",
-    "radius": 100,
+    "radius": 75,
     "regen": 1,
-    "max": 1500,
+    "max": 3000,
     "cooldown": 300,
     "sides": 3,
     "rotation": 180
