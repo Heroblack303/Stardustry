@@ -7,7 +7,7 @@
   "research": "zomber-high-progression",
   "canAttack": false,
   "armor": 350,
-  "health": 3000,
+  "health": 2000,
   "flying": false,
   "itemCapacity": 200,
   "hitSize": 30,
@@ -163,7 +163,7 @@
     "radius": 50,
     "regen": 1,
     "max": 1500,
-    "cooldown": 150,
+    "cooldown": 300,
     "sides": 3
     },
     {
@@ -171,7 +171,7 @@
     "radius": 50,
     "regen": 1,
     "max": 1500,
-    "cooldown": 150,
+    "cooldown": 300,
     "sides": 3,
     "rotation": 180
     }
