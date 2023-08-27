@@ -1,0 +1,24 @@
+{
+  "type": "Reconstructor",
+  "name": "[red]Zomber Ancient Progression ",
+  "description": "Ancient evolution.",
+  "health": 6400,
+  "size": 8,
+  "constructTime": 19200,
+  "upgrades": [
+    ["bug", "zomber-queen"]
+    ],
+  "consumes": {
+      "items": {
+          "items": [
+            "gen-evolutionary/9600",
+            "gen-zomber/9600"
+          ]
+      }
+  },
+  "requirements": [
+    "gen-zomber/9600"
+  ],
+  "category": "units",
+  "research": "zomber-low-progression"
+}
