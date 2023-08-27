@@ -7,7 +7,7 @@
   "research": "zomber-high-progression",
   "canAttack": false,
   "armor": 350,
-  "health": 14000,
+  "health": 12000,
   "flying": false,
   "itemCapacity": 200,
   "hitSize": 30,

@@ -30,9 +30,9 @@
           "rangeOverride": 30,
           "hitEffect": "pulverize",
           "speed": 0,
-          "splashDamageRadius": 55,
+          "splashDamageRadius": 75,
           "instantDisappear": true,
-          "splashDamage": 90,
+          "splashDamage": 120,
           "killShooter": true,
           "hittable": false,
           "collidesAir": true
