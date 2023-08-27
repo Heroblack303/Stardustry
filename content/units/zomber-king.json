@@ -10,7 +10,7 @@
   "health": 14000,
   "flying": false,
   "itemCapacity": 200,
-  "hitSize": 26,
+  "hitSize": 30,
   "rotateSpeed": 1.6,
   "lockLegBase": true,
   "legContinuousMove": true,

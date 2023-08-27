@@ -120,9 +120,9 @@
   {
     "type": "UnitSpawnAbility",
     "spawnX": 0,
-    "spawnY": 20,
+    "spawnY": 18,
     "unit": "fug",
-    "spawnTime": 15
+    "spawnTime": 30
   },
   {
     "type": "mindustry.entities.abilities.ForceFieldAbility",
