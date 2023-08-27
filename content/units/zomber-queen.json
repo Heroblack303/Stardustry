@@ -16,7 +16,7 @@
   "legContinuousMove": true,
   "legStraightness": 0.9,
   "baseLegStraightness": 0.75,
-  "legCount": 18,
+  "legCount": 12,
   "legLength": 45,
   "legForwardScl": 3,
   "legMoveSpace" : 1.5,
