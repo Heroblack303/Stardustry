@@ -163,7 +163,7 @@
     "radius": 50,
     "regen": 1,
     "max": 1500,
-    "cooldown": 300,
+    "cooldown": 150,
     "sides": 3
     },
     {
@@ -171,7 +171,7 @@
     "radius": 50,
     "regen": 1,
     "max": 1500,
-    "cooldown": 300,
+    "cooldown": 150,
     "sides": 3,
     "rotation": 180
     }
