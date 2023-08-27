@@ -1,0 +1,42 @@
+{
+  "type": "flying",
+  "name": "[red]Fug",
+  "description": "Fug.",
+  "speed": 1,
+  "rotateSpeed" : 1.5,
+  "research": "zomber-queen",
+  "canAttack": false,
+  "armor": 1,
+  "health": 100,
+  "flying": false,
+  "itemCapacity": 1,
+  "hitSize": 2,
+  "outlineColor": 543636,
+  "weapons": [
+    {
+      "name": "none",
+      "x": 0,
+      "y": 0,
+      "shootOnDeath": true,
+      "reload": 24,
+      "shootCone": 180,
+      "ejectEffect": "none",
+      "shootSound": "explosion",
+      "mirror": false,
+      "bullet":{
+          "collidesTiles": false,
+          "collides": false,
+          "hitSound": "explosion",
+          "rangeOverride": 30,
+          "hitEffect": "pulverize",
+          "speed": 0,
+          "splashDamageRadius": 110,
+          "instantDisappear": true,
+          "splashDamage": 180,
+          "killShooter": true,
+          "hittable": false,
+          "collidesAir": true
+      }
+    }
+  ]
+}

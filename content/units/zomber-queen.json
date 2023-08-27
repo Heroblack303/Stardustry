@@ -121,7 +121,7 @@
     "type": "UnitSpawnAbility",
     "spawnX": 0,
     "spawnY": 20,
-    "unit": "bug",
+    "unit": "fug",
     "spawnTime": 15
   },
   {
