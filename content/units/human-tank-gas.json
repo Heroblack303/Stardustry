@@ -61,30 +61,6 @@
               "strokeTo": 0,
               "colorFrom": "D99F6BFF",
               "colorTo": "F3E979FF"
-            },
-            {
-              "type": "ParticleEffect",
-              "particles": 1,
-              "sizeFrom": 2,
-              "sizeTo": 37,
-              "length": 0,
-              "spin": 11,
-              "lifetime": 125,
-              "region": "fire",
-              "colorFrom": "D99F6BFF",
-              "colorTo": "F3E979FF"
-            },
-            {
-              "type": "ParticleEffect",
-              "particles": 1,
-              "sizeFrom": 2,
-              "sizeTo": 46,
-              "length": 0,
-              "spin": -11,
-              "lifetime": 125,
-              "region": "fire",
-              "colorFrom": "D99F6BFF",
-              "colorTo": "F3E979FF"
             }
           ]
         },
@@ -138,30 +114,6 @@
               "cone": 360
             },
             {
-              "type": "ParticleEffect",
-              "particles": 1,
-              "sizeFrom": 47,
-              "sizeTo": 2,
-              "length": 0,
-              "spin": 9,
-              "lifetime": 40,
-              "region": "fire",
-              "colorFrom": "F3E979FF",
-              "colorTo": "D99F6BFF"
-            },
-            {
-              "type": "ParticleEffect",
-              "particles": 1,
-              "sizeFrom": 47,
-              "sizeTo": 2,
-              "length": 0,
-              "spin": -9,
-              "lifetime": 40,
-              "region": "fire",
-              "colorFrom": "F3E979FF",
-              "colorTo": "D99F6BFF"
-            },
-            {
               "type": "WaveEffect",
               "lifetime": 50,
               "sizeFrom": 0,
@@ -196,30 +148,6 @@
               "colorFrom": "F3E979FF",
               "colorTo": "F3E979FF",
               "cone": 360
-            },
-            {
-              "type": "ParticleEffect",
-              "particles": 1,
-              "sizeFrom": 47,
-              "sizeTo": 2,
-              "length": 0,
-              "spin": 9,
-              "lifetime": 40,
-              "region": "fire",
-              "colorFrom": "F3E979FF",
-              "colorTo": "D99F6BFF"
-            },
-            {
-              "type": "ParticleEffect",
-              "particles": 1,
-              "sizeFrom": 47,
-              "sizeTo": 2,
-              "length": 0,
-              "spin": -9,
-              "lifetime": 40,
-              "region": "fire",
-              "colorFrom": "F3E979FF",
-              "colorTo": "D99F6BFF"
             },
             {
               "type": "WaveEffect",
