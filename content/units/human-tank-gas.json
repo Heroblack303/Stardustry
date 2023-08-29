@@ -8,11 +8,11 @@
 "health": 4000,
 "armor": 20,
 "itemCapacity": 0,
-"hitSize": 36,
+"hitSize": 26,
 "researchCostMultiplier": 0,
 "weapons": [
     {
-      "name": "human-tank-super-weapon",
+      "name": "human-tank-gas-weapon",
     "shootSound": "bolt",
     "layerOffset": 0.0001,
     "reload": 1800,
