@@ -1,7 +1,7 @@
 {
 "type": "tank",
-"name": "[blue]Human Tank",
-"description": "Human Tank.",
+"name": "[blue]Human Tank Gas",
+"description": "Human Tank Gas.",
 "treadPullOffset": 5,
 "speed": 0.5,
 "rotateSpeed": 2.6,
