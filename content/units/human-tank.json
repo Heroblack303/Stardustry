@@ -22,7 +22,7 @@
         "shootSound": "sap",
         "bullet": {
           "type": "SapBulletType",
-          "damage": 25,
+          "damage": 30,
           "length": 160,
           "sapStrength": "4",
           "shootEffect": "shootLiquid",
