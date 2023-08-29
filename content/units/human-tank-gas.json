@@ -22,7 +22,7 @@
     "rotateSpeed": 1.4,
     "mirror": false,
     "shootCone": 2,
-    "x": 0,
+    "x": 10,
     "y": 0,
     "heatColor":"f9350f",
     "cooldownTime": 30,
