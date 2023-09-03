@@ -105,7 +105,7 @@
             {
               "type": "ParticleEffect",
               "particles": 1,
-              "sizeFrom": 15,
+              "sizeFrom": 8,
               "sizeTo": 0,
               "length": 0,
               "lifetime": 45,
@@ -118,7 +118,7 @@
               "lifetime": 50,
               "sizeFrom": 0,
               "sizeTo": 100,
-              "strokeFrom": 6,
+              "strokeFrom": 3,
               "strokeTo": 0,
               "colorFrom": "4AAFFF",
               "colorTo": "84F491"
@@ -128,7 +128,7 @@
               "lifetime": 50,
               "sizeFrom": 250,
               "sizeTo": 250,
-              "strokeFrom": 7,
+              "strokeFrom": 4,
               "strokeTo": 0,
               "colorFrom": "4AAFFF",
               "colorTo": "84F491"
@@ -141,7 +141,7 @@
             {
               "type": "ParticleEffect",
               "particles": 1,
-              "sizeFrom": 15,
+              "sizeFrom": 8,
               "sizeTo": 0,
               "length": 0,
               "lifetime": 45,
@@ -154,7 +154,7 @@
               "lifetime": 50,
               "sizeFrom": 0,
               "sizeTo": 100,
-              "strokeFrom": 6,
+              "strokeFrom": 3,
               "strokeTo": 0,
               "colorFrom": "4AAFFF",
               "colorTo": "84F491"
@@ -164,7 +164,7 @@
               "lifetime": 50,
               "sizeFrom": 250,
               "sizeTo": 250,
-              "strokeFrom": 7,
+              "strokeFrom": 4,
               "strokeTo": 0,
               "colorFrom": "4AAFFF",
               "colorTo": "84F491"
@@ -174,7 +174,7 @@
         "trailColor": "4AAFFF",
         "trailParam": 6,
         "trailEffect": "none",
-        "trailLength": 10,
+        "trailLength": 20,
         "trailInterval": 6,
         "trailWidth": 15,
         "speed": 3,
