@@ -50,7 +50,7 @@
               "lifetime": 125,
               "colorFrom": "4AAFFF",
               "colorTo": "4AAFFF",
-              "cone": 360
+              "cone": 180
             },
             {
               "type": "WaveEffect",
@@ -111,7 +111,7 @@
               "lifetime": 45,
               "colorFrom": "4AAFFF",
               "colorTo": "4AAFFF",
-              "cone": 360
+              "cone": 180
             },
             {
               "type": "WaveEffect",
@@ -147,7 +147,7 @@
               "lifetime": 45,
               "colorFrom": "4AAFFF",
               "colorTo": "4AAFFF",
-              "cone": 360
+              "cone": 180
             },
             {
               "type": "WaveEffect",
