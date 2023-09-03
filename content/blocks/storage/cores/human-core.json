@@ -12,5 +12,15 @@
   "category": "effect",
   "research": "gen-human",
   "unitType": "human-origins",
-  "unitCapModifier": 15
+  "unitCapModifier": 15,
+  "abilities": [
+    {
+      "type": "mindustry.entities.abilities.ForceFieldAbility",
+      "radius": 1000,
+      "regen": 1,
+      "max": 2000,
+      "cooldown": 150,
+      "sides": 4
+      }
+  ]
 }
