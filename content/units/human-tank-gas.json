@@ -191,7 +191,7 @@
         "reflectable": true,
         "absorbable": false,
         "homingPower": 0.1,
-        "homingRange": 180
+        "homingRange": 120
       }
     }
 ]
