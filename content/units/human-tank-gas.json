@@ -181,7 +181,7 @@
         "shrinkY": 0,
         "shrinkX": 0,
         "splashDamage": 500,
-        "splashDamageRadius": 1000,
+        "splashDamageRadius": 500,
         "hitSound": "shockBoom",
         "frontColor": "FFFFFFF",
         "backColor": "4AAFFF",
