@@ -1,0 +1,26 @@
+{
+  "type": "Reconstructor",
+  "name": "[blue]Human Gas Energy Core Progression",
+  "description": "Gas Energy Core create.",
+  "health": 3200,
+  "size": 6,
+  "constructTime": 4800,
+  "upgrades": [
+    ["human-tank", "human-tank-gas"]
+    ],
+  "consumes": {
+      "items": {
+          "items": [
+            "gas/400",
+            "gas-energy-core/200"
+          ]
+      }
+  },
+  "requirements": [
+    "gen-human/1600",
+    "gas/800",
+    "gas-energy-core/400"
+  ],
+  "category": "units",
+  "research": "human-gas-progression"
+}

@@ -6,7 +6,7 @@
   "rotate": true,
   "research": "zomber-high-progression",
   "canAttack": false,
-  "armor": 350,
+  "armor": 100,
   "health": 2000,
   "flying": false,
   "itemCapacity": 200,

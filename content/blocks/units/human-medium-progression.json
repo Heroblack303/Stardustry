@@ -1,7 +1,7 @@
 {
   "type": "Reconstructor",
-  "name": "[blue]Human Low Progression",
-  "description": "Medium evolution.",
+  "name": "[blue]Human Medium Progression",
+  "description": "Medium create.",
   "health": 800,
   "size": 4,
   "constructTime": 480,

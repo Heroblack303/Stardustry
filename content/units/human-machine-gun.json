@@ -10,7 +10,7 @@
   "armor": 4,
   "health": 80,
   "flying": false,
-  "itemCapacity": 5,
+  "itemCapacity": 0,
   "hitSize": 8,
   "outlineColor": "4A4B53",
   "weapons": [

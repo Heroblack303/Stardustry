@@ -9,6 +9,7 @@
     "armor": 2,
     "rotateSpeed": 30,
     "flying": true,
+    "itemCapacity": 2,
     "engineOffset": 5,
     "commandLimit": 10,
     "lowAltitude": false,
